@@ -2,7 +2,7 @@
 
 <p align="left">
 
-🌐 **زبان:** [🇺🇸 English](./README.md) | 🇮🇷 فارسی
+🌐 **زبان:** فارسی [🇺🇸 English](./README.md) | 🇮🇷
 
 </p>
 
