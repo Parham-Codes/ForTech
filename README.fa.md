@@ -162,7 +162,8 @@ src
 
 گیت‌هاب:
 
-https://github.com/Parham-Codes
+GitHub: https://github.com/Parham-Codes
+Email: parhamtaghikhani.31@example.com
 
 ---
 

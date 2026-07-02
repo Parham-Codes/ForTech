@@ -155,6 +155,7 @@ src
 **Parham Taghikhani**
 
 GitHub: https://github.com/Parham-Codes
+Email: parhamtaghikhani.31@example.com
 
 ---
 
