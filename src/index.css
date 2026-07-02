@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Lalezar";
+  src: url("./assets/font/Lalezar/Lalezar-Regular.ttf");
+}
+@font-face {
+  font-family: "Yekan";
+  src: url("./assets/font/B_Yekan/Yekan.ttf");
+}
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("./assets/font/Vazirmatn/Vazirmatn-VariableFont_wght.ttf");
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Vazirmatn", sans-serif;
+}
+
+/* body {
+  direction: rtl !important;
+} */
+
+.lalezar {
+  font-family: "Lalezar" !important;
+}
+
+body{
+  background-color: #F0F0F1;
+}
+
+.justified {
+  text-align: justify;
+}
+
+.secColor{
+  color: #007bff;
+}
+.secBgColor{
+  background-color: #007bff;
+}
+
+.pBgGray{
+  background-color: #F0F0F1;
+}
+.pCoGray{
+  color: #F0F0F1;
+}
+
+.cursorPointer{
+  cursor: pointer !important;
+}
+
+.cursorGrrabing:active{
+  cursor: grabbing !important;
+}
+
+.cursorDefault{
+  cursor: default;
+}
+
+.Mycontainer{
+  max-width: 1575px;
+  margin: 0 auto;
+}
+
+.adminPanelBg{
+  background-color: #1F1F21;
+}

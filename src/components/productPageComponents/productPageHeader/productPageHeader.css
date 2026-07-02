@@ -1,0 +1,21 @@
+@media screen and (max-width : 992px) {
+    .productHeaderSection{
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+    }
+    .productDesc h2{
+        font-size: 1rem !important;
+    }
+    .productDesc h5{
+        font-size: 13px !important;
+    }
+    .priceLabel{
+        font-size: 1.25rem !important;
+    }
+
+}
+@media screen and (min-width : 992px) {
+    .productHeaderSection{
+        border-radius: 1rem;
+    }
+}

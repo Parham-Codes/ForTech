@@ -1,0 +1,19 @@
+.accordion-button {
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #ffffff;
+    outline: none !important;
+  border: none !important;
+
+}
+@media screen and (min-width : 1200px) {
+    .shopProductContainer{
+      padding-left: 12px !important;
+    }
+}  
+  
+  

@@ -1,0 +1,9 @@
+@media screen and (max-width : 992px) {
+    .productInfoData{
+        width: 50%;
+    }
+}
+
+.productInfoLabel{
+    padding-right: 10px;
+}

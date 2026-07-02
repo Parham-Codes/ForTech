@@ -1,0 +1,10 @@
+.imgRow .col img{
+    height: auto;
+    border-radius: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.homePosterFirstRow{
+    display: none !important;
+}

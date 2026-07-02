@@ -1,0 +1,81 @@
+.cartIcon {
+  background-color: #f0f0f1;
+  height: 40px;
+  align-items: center;
+  display: flex;
+  padding: 0 12px;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  border: none;
+  border-radius: 5px;
+}
+
+.cartIconDropDown {
+  color: black;
+  position: absolute;
+  left: 0;
+  top: 40px;
+  width: 700px;
+  overflow-y: auto;
+  align-items: stretch;  
+  justify-content: center; 
+  border-radius: 5px;
+  display: flex;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  transform: translateY(10px);
+  box-shadow:
+    0 10px 20px rgba(0, 0, 0, 0.15),
+    0 6px 6px rgba(0, 0, 0, 0.1);
+  background-color: #e0efff;
+  z-index: 1000;
+
+}
+.cartIcon:hover .cartIconDropDown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.cartIcon span {
+  background-color: #007bff;
+  width: 18px;
+  height: 18px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  left: -5px;
+  top: -5px;
+  font-size: 12px;
+}
+
+.cartIcon{
+  transition: all 0.3s ease;
+}
+
+.cartIcon:hover{
+  background: #cacaca;
+}
+
+
+@media screen and (max-width : 992px) {
+  .cartIconDropDown{
+    display: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .cartProductDiv img {
+    height: 200px !important;
+  }
+    .cartIconDropDown .cartProductDiv img {
+    height: 150px !important;
+  }
+  .cartIconDropDown .cartProductDiv h3{
+    font-size: 14px !important;
+  }
+}

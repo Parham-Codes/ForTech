@@ -1,0 +1,45 @@
+.adminEditForm{
+background-color:#1F1F21;
+padding:20px;
+border-radius:8px;
+}
+
+.adminEditForm label{
+display:block;
+margin-top:15px;
+color:white;
+}
+
+.adminEditForm input,
+.adminEditForm textarea{
+border:1px solid #525257;
+background-color:#161618;
+padding:5px 10px;
+border-radius:6px;
+caret-color:aliceblue;
+color:#9494a7;
+width:100%;
+margin-top:5px;
+}
+
+.adminEditForm textarea{
+min-height:90px;
+}
+
+.adminEditForm input:focus,
+.adminEditForm textarea:focus{
+border:1px solid #525257 !important;
+outline:1px solid #525257 !important;
+}
+
+.editProductBtn{
+margin-top:25px;
+background:#3c82f6;
+border:none;
+padding:10px;
+border-radius:6px;
+color:white;
+cursor:pointer;
+}
+
+

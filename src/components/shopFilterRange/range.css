@@ -1,0 +1,15 @@
+
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.price-values {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  font-size: 14px;
+  color: #444;
+}
+

@@ -1,0 +1,76 @@
+.panelLayout {
+  display: flex;
+  direction: rtl; /* راست به چپ */
+  width: 100%;
+  min-height: 100vh;
+  background-color: #161618;
+}
+
+.adminSidebar {
+  background-color: #1F1F21;
+  width: 275px;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  display: flex;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+}
+
+.adminSidebarClosed {
+  width: 0;
+}
+
+.sidebarHeader{
+  border-color: #3B3B3D;
+}
+
+.paneltTXcolor{
+    color: #ABAAB8 !important;
+}
+.panelTIcolor{
+    color: #DDDDDD !important;
+}
+
+.adminSidebarInner .sidebarItems a{
+  transition: all 0.1s ease;
+}
+
+.adminSidebarInner .sidebarItems a:hover{
+  background-color: #29292B;
+}
+.bottomBTns:hover{
+  background-color: #29292B;
+}
+
+.adminSidebarInner {
+  flex-shrink: 0;
+  width: 275px;
+  transition: opacity 0.2s ease;
+}
+
+.adminSidebarClosed .adminSidebarInner {
+  opacity: 0;
+}
+
+.panelLayoutOutlet {
+  flex: 1;
+  background-color: #161618;
+  transition: all 0.3s ease;
+}
+
+
+.adminPanelHeader{
+    background-color: #1f1f21;
+}
+
+@media screen and (max-width : 1400px) {
+  .adminSidebar{
+    position: fixed;
+    height: 100%;
+  }
+}
+
+.adminSidebarInner .active{
+  background-color: #29292B;
+}

@@ -1,0 +1,32 @@
+
+
+@media screen and (max-width: 992px) {
+.ResBtnDiv{
+    width: 0 !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+  .PpageResBtnFooter {
+    display: flex;
+    flex-direction: row-reverse;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color:  rgb(242, 247, 255);
+    padding: 15px 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .PpageResBtnFooter p {
+    font-size: 18px !important;
+    margin: 0 35px 0 0;
+  }
+  .PpageResBtnFooter button {
+    width: 50% !important;
+    padding: 10px !important;
+    margin: 0 !important;
+  }
+}

@@ -1,0 +1,16 @@
+.footerCardContainer{
+    background-color: #F0F0F1;
+    text-align: center;
+    border-radius: 10px;
+    height: 122px;
+}
+
+.footerCardContainer .FcardIcon :only-child{
+    margin: 15px 0 0 0;
+    font-size: 60px;
+}
+.footerCardContainer .FcardPar p{
+    display: inline-block;
+    margin: 10px 0 15px 0;
+    font-size: 15px;
+}

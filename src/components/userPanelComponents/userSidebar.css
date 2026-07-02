@@ -1,0 +1,71 @@
+.userLayout {
+  display: flex;
+  direction: rtl;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #c2c2c2;
+}
+
+.userSidebar {
+  background-color: rgb(220, 242, 255);
+  width: 275px;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  display: flex;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+}
+
+.userSidebarClosed {
+  width: 0;
+}
+
+.userSidebarHeader{
+  border-color: #3B3B3D;
+}
+
+
+.sidebarItems a{
+  transition: all 0.1s ease;
+}
+
+.userSidebarInner .sidebarItems a:hover{
+  background-color: rgb(186, 230, 255);
+}
+.userSidebarInner .bottomBTns:hover{
+  background-color: rgb(186, 230, 255);
+}
+
+.userSidebarInner {
+  flex-shrink: 0;
+  width: 275px;
+  transition: opacity 0.2s ease;
+  background-color: transparent;
+}
+
+.userSidebarClosed .userSidebarInner {
+  opacity: 0;
+}
+
+.userLayoutOutlet {
+  flex: 1;
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+
+.userPanelHeader{
+    background-color: rgb(220, 242, 255);
+}
+
+@media screen and (max-width : 1400px) {
+  .userSidebar{
+    position: fixed;
+    height: 100%;
+  }
+}
+
+.userSidebarInner .active{
+  background-color: rgb(186, 230, 255);
+}
