@@ -160,8 +160,6 @@ src
 
 **پرهام تقی‌خانی**
 
-گیت‌هاب:
-
 GitHub: https://github.com/Parham-Codes
 Email: parhamtaghikhani.31@example.com
 
