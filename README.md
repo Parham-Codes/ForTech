@@ -1,3 +1,11 @@
+<p align="right">
+
+🌐 **Language:** 🇺🇸 English | [🇮🇷 فارسی](./README.fa.md)
+
+</p>
+
+---
+
 # 🛒 ForTech
 
 <p align="center">
@@ -10,9 +18,9 @@ A responsive online shopping application featuring authentication, role-based ac
 
 <p align="center">
 
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![JSON Server](https://img.shields.io/badge/API-JSON_Server-green)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 
@@ -24,23 +32,23 @@ A responsive online shopping application featuring authentication, role-based ac
 
 # ✨ Features
 
-* 🔐 Authentication (Login / Register / Logout)
-* 👥 Role-Based Access Control (Admin & User)
-* 🛒 Shopping Cart
-* 💳 Checkout Process
-* 🔍 Product Search
-* 📄 Pagination
-* 📱 Responsive Design
-* 👤 User Dashboard
-* 📦 User Order Management
-* ⚙️ Admin Dashboard
-* 👥 User Management
-* 📱 Product Management
-* 📦 Order Management
-* ✏️ Product Editing
-* ➕ Add New Products
-* ⚡ Loading Skeletons
-* 🔔 Toast Notifications
+- 🔐 Authentication (Login / Register / Logout)
+- 👥 Role-Based Access Control (Admin & User)
+- 🛒 Shopping Cart
+- 💳 Checkout Process
+- 🔍 Product Search
+- 📄 Pagination
+- 📱 Responsive Design
+- 👤 User Dashboard
+- 📦 User Order Management
+- ⚙️ Admin Dashboard
+- 👥 User Management
+- 📱 Product Management
+- 📦 Order Management
+- ✏️ Product Editing
+- ➕ Add New Products
+- ⚡ Loading Skeletons
+- 🔔 Toast Notifications
 
 ---
 
@@ -79,7 +87,7 @@ A responsive online shopping application featuring authentication, role-based ac
 
 | Phones                                          | Laptops                                          |
 | ----------------------------------------------- | ------------------------------------------------ |
-| ![](./screenshots/Product%20Page\(phones\).png) | ![](./screenshots/Product%20Page\(laptops\).png) |
+| ![](<./screenshots/Product%20Page(phones).png>) | ![](<./screenshots/Product%20Page(laptops).png>) |
 
 ---
 
