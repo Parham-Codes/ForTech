@@ -1,113 +1,155 @@
-🛒 ForTech – Modern E-Commerce Web Application
+# 🛒 ForTech
 
-A scalable, feature-rich e-commerce frontend built with React + Vite, designed to simulate a real-world online shopping platform with authentication, admin dashboard, and full cart/checkout flow.
+<p align="center">
+  <strong>Modern E-Commerce Frontend built with React & Vite</strong>
+</p>
 
-🚀 Live Features
-🛍 Store Front
-Product listing with dynamic UI
-Product detail pages
-Category-based browsing
-Responsive design for all devices
-🛒 Shopping System
-Add / remove items from cart
-Quantity management
-Persistent cart state
-Checkout flow simulation
-👤 Authentication System
-User registration & login
-Protected routes for authenticated users
-Role-based access (User / Admin)
-🛠 Admin Dashboard
-Product management (CRUD structure ready)
-User management interface
-Order overview panel
-Separate admin routing system
-⚡ Performance & UX
-Lazy-loaded routes (code splitting)
-Optimized component structure
-Fast navigation with React Router v7
-Toast notifications for actions
-SweetAlert2 modals for confirmations
-🧱 Tech Stack
-⚛️ React 19 (Vite)
-🧭 React Router DOM v7
-🎯 Context API (State Management)
-📡 Axios (API Handling)
-🎨 Bootstrap / React-Bootstrap
-🎠 Swiper.js (Product sliders)
-🔔 React Hot Toast (Notifications)
-📄 React Helmet Async (SEO optimization)
-💬 SweetAlert2 (UI alerts)
-🧠 Architecture Overview
+<p align="center">
+A responsive online shopping application featuring authentication, role-based access control, shopping cart, checkout flow, user dashboard, and admin panel using a simulated REST API with JSON Server.
+</p>
 
-The project follows a modular and scalable structure:
+<p align="center">
 
-src/
-│
-├── components/     # Reusable UI components
-├── pages/          # App pages (User + Admin)
-├── context/        # Global state (Auth, Cart)
-├── routes/         # Route protection & navigation
-├── assets/         # Images, fonts, static files
-├── DB/             # API configuration / data layer
-└── App.jsx         # Root provider composition
-🔐 Routing System
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript\&logoColor=black)
+![JSON Server](https://img.shields.io/badge/API-JSON_Server-green)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 
-This project uses a role-based protected routing system:
+</p>
 
-ProtectedRoute → Authenticated users only
-AdminRoute → Admin-only access
-CheckoutRoute → Controlled checkout flow
-🌐 API Integration
+> **Note:** This project uses **JSON Server** to simulate backend APIs and does not include a production backend.
 
-Backend communication is handled via Axios:
+---
 
-const API_BASE_URL = "http://192.168.1.2:4000";
+# ✨ Features
 
-The frontend is fully decoupled from backend logic, making it ready for production APIs.
+* 🔐 Authentication (Login / Register / Logout)
+* 👥 Role-Based Access Control (Admin & User)
+* 🛒 Shopping Cart
+* 💳 Checkout Process
+* 🔍 Product Search
+* 📄 Pagination
+* 📱 Responsive Design
+* 👤 User Dashboard
+* 📦 User Order Management
+* ⚙️ Admin Dashboard
+* 👥 User Management
+* 📱 Product Management
+* 📦 Order Management
+* ✏️ Product Editing
+* ➕ Add New Products
+* ⚡ Loading Skeletons
+* 🔔 Toast Notifications
 
-⚙️ Getting Started
-1. Clone the repository
+---
+
+# 🛠 Tech Stack
+
+| Category         | Technologies                    |
+| ---------------- | ------------------------------- |
+| Frontend         | React 19, Vite                  |
+| Routing          | React Router DOM                |
+| State Management | Context API                     |
+| HTTP Client      | Axios                           |
+| Styling          | Bootstrap, React Bootstrap, CSS |
+| Notifications    | React Hot Toast, SweetAlert2    |
+| Slider           | Swiper                          |
+| Icons            | React Icons                     |
+| SEO              | React Helmet Async              |
+| Mock API         | JSON Server                     |
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Home
+
+![Home](./screenshots/Home.png)
+
+---
+
+## 🛍 Shop
+
+![Shop](./screenshots/Shop.png)
+
+---
+
+## 📱 Product Pages
+
+| Phones                                          | Laptops                                          |
+| ----------------------------------------------- | ------------------------------------------------ |
+| ![](./screenshots/Product%20Page\(phones\).png) | ![](./screenshots/Product%20Page\(laptops\).png) |
+
+---
+
+## 👤 User Dashboard
+
+![User Dashboard](./screenshots/User%20Dashboard.png)
+
+---
+
+## ⚙️ Admin Dashboard
+
+![Admin Dashboard](./screenshots/Admin%20Dashboard.png)
+
+---
+
+## 📦 Admin Products
+
+![Admin Products](./screenshots/Admin%20Products.png)
+
+---
+
+# 🚀 Getting Started
+
+### Clone Repository
+
+```bash
 git clone https://github.com/Parham-Codes/ForTech.git
-cd ForTech
-2. Install dependencies
+```
+
+### Install Dependencies
+
+```bash
 npm install
-3. Run development server
+```
+
+### Start JSON Server
+
+```bash
+npx json-server src/DB/db.json --port 4000
+```
+
+### Run Project
+
+```bash
 npm run dev
-📦 Build for Production
-npm run build
-🎯 Project Goals
+```
 
-This project was built to demonstrate:
+---
 
-Real-world React architecture
-Scalable e-commerce frontend design
-Authentication & authorization flow
-Admin panel separation
-Performance optimization techniques
-🧩 Key Highlights
-✔ Clean component-based architecture
-✔ Role-based access control
-✔ Fully responsive UI
-✔ Production-ready folder structure
-✔ Real API integration pattern
-✔ Scalable routing system
-👨‍💻 Developer
+# 📂 Project Structure
 
-Parham Taghikhani
+```text
+src
+├── assets
+├── components
+├── context
+├── pages
+├── routes
+├── DB
+└── main.jsx
+```
 
-GitHub: Parham-Codes
-🧠 Note
+# 👨‍💻 Author
 
-This project is not just a UI template — it is structured like a real production e-commerce system, suitable for portfolio and job applications.
+**Parham Taghikhani**
 
-🇮🇷 نسخه فارسی کوتاه
+GitHub: https://github.com/Parham-Codes
 
-این پروژه یک فروشگاه اینترنتی کامل با React هست که شامل:
+---
 
-سیستم لاگین
-سبد خرید
-پنل ادمین
-روتینگ حرفه‌ای
-اتصال به API
-طراحی ریسپانسیو
+<p align="center">
+⭐ If you like this project, consider giving it a star.
+</p>
