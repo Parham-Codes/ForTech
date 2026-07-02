@@ -422,12 +422,7 @@
         "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
         "gpu": "Apple GPU (6-core)",
         "ram": "8GB",
-        "storage_options": [
-          "128GB",
-          "     256GB",
-          "     512GB",
-          "     1TB"
-        ],
+        "storage_options": ["128GB", "     256GB", "     512GB", "     1TB"],
         "display": {
           "size_in": 6.1,
           "type": "Super Retina XDR OLED",
@@ -442,11 +437,7 @@
       "pageInfo": {
         "title": "Apple iPhone 15 Pro | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی iPhone 15 Pro: تراشه A17 Pro، نمایشگر 6.1 اینچی، بدنهٔ تیتانیوم و دوربین پیشرفته.",
-        "keywords": [
-          "iPhone 15 Pro",
-          "      Apple iPhone",
-          "      خرید آیفون"
-        ],
+        "keywords": ["iPhone 15 Pro", "      Apple iPhone", "      خرید آیفون"],
         "features": [
           "تراشهٔ A17 Pro",
           "      بدنهٔ تیتانیوم سبک",
@@ -480,11 +471,7 @@
         "cpu": "Octa-core (1x3.36 GHz + 3x2.8 GHz + 4x2.0 GHz)",
         "gpu": "Adreno (model varies)",
         "ram": "12GB",
-        "storage_options": [
-          "256GB",
-          "512GB",
-          "1TB"
-        ],
+        "storage_options": ["256GB", "512GB", "1TB"],
         "display": {
           "size_in": 6.8,
           "type": "Dynamic AMOLED 2X",
@@ -499,11 +486,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy S24 Ultra | خرید و مشخصات",
         "meta_description": "مشخصات و قیمت Galaxy S24 Ultra: نمایشگر 6.8 اینچ، دوربین 200MP، باتری 5000mAh و تراشهٔ پرقدرت.",
-        "keywords": [
-          "Samsung Galaxy S24 Ultra",
-          "S24 Ultra",
-          "خرید سامسونگ"
-        ],
+        "keywords": ["Samsung Galaxy S24 Ultra", "S24 Ultra", "خرید سامسونگ"],
         "features": [
           "نمایشگر 6.8 اینچ Quad HD+ با نرخ 120Hz",
           "دوربین اصلی 200MP",
@@ -537,13 +520,7 @@
         "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
         "gpu": "Apple GPU (6-core)",
         "ram": "8GB",
-        "storage_options": [
-          "128GB",
-          "256GB",
-          "512GB",
-          "1TB",
-          "2TB"
-        ],
+        "storage_options": ["128GB", "256GB", "512GB", "1TB", "2TB"],
         "display": {
           "size_in": 6.2,
           "type": "Super Retina XDR OLED",
@@ -558,11 +535,7 @@
       "pageInfo": {
         "title": "Apple iPhone 16 Pro | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی iPhone 16 Pro: تراشه A18 Pro، نمایشگر 6.2 اینچی و بدنهٔ تیتانیوم.",
-        "keywords": [
-          "iPhone 16 Pro",
-          "Apple iPhone",
-          "خرید آیفون"
-        ],
+        "keywords": ["iPhone 16 Pro", "Apple iPhone", "خرید آیفون"],
         "features": [
           "تراشهٔ A18 Pro",
           "بدنهٔ تیتانیوم سبک",
@@ -596,12 +569,7 @@
         "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
         "gpu": "Apple GPU (5-core)",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB",
-          "512GB",
-          "1TB"
-        ],
+        "storage_options": ["128GB", "256GB", "512GB", "1TB"],
         "display": {
           "size_in": 6.1,
           "type": "Super Retina XDR OLED",
@@ -616,11 +584,7 @@
       "pageInfo": {
         "title": "Apple iPhone 14 Pro | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی iPhone 14 Pro: تراشه A16 Bionic، نمایشگر 6.1 اینچی و دوربین پیشرفته.",
-        "keywords": [
-          "iPhone 14 Pro",
-          "Apple iPhone",
-          "خرید آیفون"
-        ],
+        "keywords": ["iPhone 14 Pro", "Apple iPhone", "خرید آیفون"],
         "features": [
           "تراشهٔ A16 Bionic",
           "نمایشگر 6.1 اینچ Super Retina XDR",
@@ -654,10 +618,7 @@
         "cpu": "Octa-core (1x3.25 GHz + 3x2.85 GHz + 4x2.0 GHz)",
         "gpu": "Immortalis-G720 MC12",
         "ram": "8GB / 12GB",
-        "storage_options": [
-          "256GB",
-          "512GB"
-        ],
+        "storage_options": ["256GB", "512GB"],
         "display": {
           "size_in": 6.67,
           "type": "AMOLED (Next-gen 144Hz)",
@@ -672,11 +633,7 @@
       "pageInfo": {
         "title": "Xiaomi 14T Pro | خرید و مشخصات",
         "meta_description": "مشخصات Xiaomi 14T Pro: نمایشگر 6.67 اینچ با 144Hz، Dimensity 9300+، باتری 5000mAh و شارژ 120W.",
-        "keywords": [
-          "Xiaomi 14T Pro",
-          "Xiaomi 14T",
-          "خرید شیائومی"
-        ],
+        "keywords": ["Xiaomi 14T Pro", "Xiaomi 14T", "خرید شیائومی"],
         "features": [
           "پردازنده Dimensity 9300+",
           "نمایشگر 6.67 اینچ 144Hz",
@@ -709,11 +666,7 @@
         "cpu": "Hexa-core",
         "gpu": "Apple GPU (6-core)",
         "ram": "8GB",
-        "storage_options": [
-          "256GB",
-          "512GB",
-          "1TB"
-        ],
+        "storage_options": ["256GB", "512GB", "1TB"],
         "display": {
           "size_in": 6.7,
           "type": "Super Retina XDR OLED",
@@ -728,11 +681,7 @@
       "pageInfo": {
         "title": "Apple iPhone 15 Pro Max | خرید و مشخصات",
         "meta_description": "مشخصات iPhone 15 Pro Max: نمایشگر 6.7 اینچ، A17 Pro و بدنه تیتانیوم.",
-        "keywords": [
-          "Apple iPhone 15 Pro Max",
-          "Apple",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Apple iPhone 15 Pro Max", "Apple", "گوشی موبایل"],
         "features": [
           "نمایشگر 6.7 اینچ Super Retina XDR",
           "تراشه A17 Pro",
@@ -764,11 +713,7 @@
         "cpu": "Hexa-core",
         "gpu": "Apple GPU",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB",
-          "512GB"
-        ],
+        "storage_options": ["128GB", "256GB", "512GB"],
         "display": {
           "size_in": 6.1,
           "type": "Super Retina XDR OLED",
@@ -783,11 +728,7 @@
       "pageInfo": {
         "title": "Apple iPhone 15 | خرید و مشخصات",
         "meta_description": "مشخصات iPhone 15: نمایشگر 6.1 اینچ، تراشه A16 Bionic و طراحی سبک.",
-        "keywords": [
-          "Apple iPhone 15",
-          "Apple",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Apple iPhone 15", "Apple", "گوشی موبایل"],
         "features": [
           "نمایشگر 6.1 اینچ OLED",
           "تراشه A16 Bionic",
@@ -820,12 +761,7 @@
         "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
         "gpu": "Apple GPU (6-core)",
         "ram": "8GB",
-        "storage_options": [
-          "256GB",
-          "512GB",
-          "1TB",
-          "2TB"
-        ],
+        "storage_options": ["256GB", "512GB", "1TB", "2TB"],
         "display": {
           "size_in": 6.3,
           "type": "Super Retina XDR OLED",
@@ -840,11 +776,7 @@
       "pageInfo": {
         "title": "Apple iPhone 17 Pro | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی iPhone 17 Pro: تراشه A19 Pro، نمایشگر 6.3 اینچی و دوربین پیشرفته با AI Photography.",
-        "keywords": [
-          "iPhone 17 Pro",
-          "Apple iPhone",
-          "خرید آیفون"
-        ],
+        "keywords": ["iPhone 17 Pro", "Apple iPhone", "خرید آیفون"],
         "features": [
           "تراشهٔ A19 Pro",
           "بدنهٔ تیتانیوم سبک",
@@ -878,10 +810,7 @@
         "cpu": "Octa-core",
         "gpu": "Adreno",
         "ram": "8GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.2,
           "type": "Dynamic AMOLED 2X",
@@ -896,11 +825,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy S24 | خرید و مشخصات",
         "meta_description": "مشخصات Galaxy S24: نمایشگر 6.2 اینچی، Snapdragon 8 Gen 3 و طراحی سبک.",
-        "keywords": [
-          "Samsung Galaxy S24",
-          "Samsung",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Samsung Galaxy S24", "Samsung", "گوشی موبایل"],
         "features": []
       }
     },
@@ -928,10 +853,7 @@
         "cpu": "Octa-core",
         "gpu": "Adreno",
         "ram": "8GB",
-        "storage_options": [
-          "256GB",
-          "512GB"
-        ],
+        "storage_options": ["256GB", "512GB"],
         "display": {
           "size_in": 6.7,
           "type": "Dynamic AMOLED 2X",
@@ -946,11 +868,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy S24+ | خرید و مشخصات",
         "meta_description": "مشخصات Galaxy S24+: نمایشگر 6.7 اینچ و باتری 4900mAh.",
-        "keywords": [
-          "Samsung Galaxy S24+",
-          "Samsung",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Samsung Galaxy S24+", "Samsung", "گوشی موبایل"],
         "features": []
       }
     },
@@ -978,10 +896,7 @@
         "cpu": "Octa-core",
         "gpu": "Arm Mali or custom",
         "ram": "8GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.2,
           "type": "OLED",
@@ -996,11 +911,7 @@
       "pageInfo": {
         "title": "Google Pixel 8 | خرید و مشخصات",
         "meta_description": "مشخصات Google Pixel 8: Tensor G3 و دوربین‌های پیشرفته.",
-        "keywords": [
-          "Google Pixel 8",
-          "Google",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Google Pixel 8", "Google", "گوشی موبایل"],
         "features": []
       }
     },
@@ -1029,10 +940,7 @@
         "cpu": "Octa-core",
         "gpu": "Adreno",
         "ram": "8GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.36,
           "type": "AMOLED",
@@ -1047,11 +955,7 @@
       "pageInfo": {
         "title": "Xiaomi Xiaomi 14 | خرید و مشخصات",
         "meta_description": "مشخصات Xiaomi 14: پردازنده Snapdragon 8 Gen 3 و نمایشگر 6.36 اینچی.",
-        "keywords": [
-          "Xiaomi Xiaomi 14",
-          "Xiaomi",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Xiaomi Xiaomi 14", "Xiaomi", "گوشی موبایل"],
         "features": []
       }
     },
@@ -1080,11 +984,7 @@
         "cpu": "Octa-core",
         "gpu": "Adreno",
         "ram": "12GB",
-        "storage_options": [
-          "256GB",
-          "512GB",
-          "1TB"
-        ],
+        "storage_options": ["256GB", "512GB", "1TB"],
         "display": {
           "size_in": 6.73,
           "type": "AMOLED",
@@ -1099,11 +999,7 @@
       "pageInfo": {
         "title": "Xiaomi Xiaomi 14 Pro | خرید و مشخصات",
         "meta_description": "مشخصات Xiaomi 14 Pro: دوربین لایکا و شارژ 120W.",
-        "keywords": [
-          "Xiaomi Xiaomi 14 Pro",
-          "Xiaomi",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Xiaomi Xiaomi 14 Pro", "Xiaomi", "گوشی موبایل"],
         "features": []
       }
     },
@@ -1132,10 +1028,7 @@
         "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
         "gpu": "Mali-G52",
         "ram": "3GB",
-        "storage_options": [
-          "32GB",
-          "64GB"
-        ],
+        "storage_options": ["32GB", "64GB"],
         "display": {
           "size_in": 6.71,
           "type": "LCD",
@@ -1150,11 +1043,7 @@
       "pageInfo": {
         "title": "Xiaomi Redmi 12C | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Redmi 12C: تراشه MediaTek Helio G85، نمایشگر 6.71 اینچی و باتری 5000mAh.",
-        "keywords": [
-          "Redmi 12C",
-          "Xiaomi",
-          "گوشی پایین رده"
-        ],
+        "keywords": ["Redmi 12C", "Xiaomi", "گوشی پایین رده"],
         "features": [
           "تراشه MediaTek Helio G85",
           "نمایشگر 6.71 اینچ LCD",
@@ -1188,10 +1077,7 @@
         "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
         "gpu": "Mali-G57 MC2",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.5,
           "type": "Super AMOLED",
@@ -1206,11 +1092,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy A36 5G | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Galaxy A36 5G: تراشه MediaTek Dimensity 6100، نمایشگر 6.5 اینچی Super AMOLED و باتری 5000mAh.",
-        "keywords": [
-          "Galaxy A36 5G",
-          "Samsung Galaxy",
-          "خرید گوشی سامسونگ"
-        ],
+        "keywords": ["Galaxy A36 5G", "Samsung Galaxy", "خرید گوشی سامسونگ"],
         "features": [
           "تراشهٔ MediaTek Dimensity 6100",
           "نمایشگر 6.5 اینچ Super AMOLED",
@@ -1244,10 +1126,7 @@
         "cpu": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
         "gpu": "Mali-G68",
         "ram": "4GB",
-        "storage_options": [
-          "64GB",
-          "128GB"
-        ],
+        "storage_options": ["64GB", "128GB"],
         "display": {
           "size_in": 6.6,
           "type": "PLS LCD",
@@ -1262,11 +1141,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy M14 | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Galaxy M14: تراشه Exynos 1330، نمایشگر 6.6 اینچی و باتری 6000mAh.",
-        "keywords": [
-          "Galaxy M14",
-          "Samsung Galaxy",
-          "گوشی میان رده سامسونگ"
-        ],
+        "keywords": ["Galaxy M14", "Samsung Galaxy", "گوشی میان رده سامسونگ"],
         "features": [
           "تراشهٔ Exynos 1330",
           "نمایشگر 6.6 اینچ PLS LCD",
@@ -1300,10 +1175,7 @@
         "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
         "gpu": "Mali-G52",
         "ram": "4GB",
-        "storage_options": [
-          "64GB",
-          "128GB"
-        ],
+        "storage_options": ["64GB", "128GB"],
         "display": {
           "size_in": 6.5,
           "type": "IPS LCD",
@@ -1318,11 +1190,7 @@
       "pageInfo": {
         "title": "Xiaomi Redmi 13 | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Redmi 13: تراشه MediaTek Helio G85، نمایشگر 6.5 اینچی و باتری 5000mAh.",
-        "keywords": [
-          "Redmi 13",
-          "Xiaomi",
-          "گوشی پایین رده"
-        ],
+        "keywords": ["Redmi 13", "Xiaomi", "گوشی پایین رده"],
         "features": [
           "تراشه MediaTek Helio G85",
           "نمایشگر 6.5 اینچ IPS LCD",
@@ -1356,10 +1224,7 @@
         "cpu": "Octa-core",
         "gpu": "Mali-G68",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.4,
           "type": "Super AMOLED",
@@ -1374,11 +1239,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy A54 | خرید و مشخصات",
         "meta_description": "مشخصات Galaxy A54: میان‌رده با باتری 5000mAh و نمایشگر 120Hz.",
-        "keywords": [
-          "Samsung Galaxy A54",
-          "Samsung",
-          "گوشی موبایل"
-        ],
+        "keywords": ["Samsung Galaxy A54", "Samsung", "گوشی موبایل"],
         "features": []
       }
     },
@@ -1407,10 +1268,7 @@
         "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
         "gpu": "Mali-G57 MC2",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.5,
           "type": "Super AMOLED",
@@ -1425,11 +1283,7 @@
       "pageInfo": {
         "title": "Samsung Galaxy A24 | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Galaxy A24: تراشه MediaTek Helio G99، نمایشگر 6.5 اینچی و باتری 5000mAh.",
-        "keywords": [
-          "Galaxy A24",
-          "Samsung Galaxy",
-          "گوشی میان رده سامسونگ"
-        ],
+        "keywords": ["Galaxy A24", "Samsung Galaxy", "گوشی میان رده سامسونگ"],
         "features": [
           "تراشهٔ MediaTek Helio G99",
           "نمایشگر 6.5 اینچ Super AMOLED",
@@ -1463,10 +1317,7 @@
         "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
         "gpu": "Mali-G57 MC2",
         "ram": "6GB",
-        "storage_options": [
-          "128GB",
-          "256GB"
-        ],
+        "storage_options": ["128GB", "256GB"],
         "display": {
           "size_in": 6.6,
           "type": "AMOLED",
@@ -1481,11 +1332,7 @@
       "pageInfo": {
         "title": "Xiaomi Redmi Note 13 | خرید و مشخصات",
         "meta_description": "مشخصات، قیمت و بررسی Redmi Note 13: تراشه MediaTek Dimensity 6080، نمایشگر AMOLED 6.6 اینچی و باتری 5000mAh.",
-        "keywords": [
-          "Redmi Note 13",
-          "Xiaomi",
-          "گوشی میان رده شیائومی"
-        ],
+        "keywords": ["Redmi Note 13", "Xiaomi", "گوشی میان رده شیائومی"],
         "features": [
           "تراشه MediaTek Dimensity 6080",
           "نمایشگر 6.6 اینچ AMOLED",
@@ -1527,11 +1374,7 @@
       "pageInfo": {
         "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD - ایسوس ایران",
         "meta_description": "پردازنده اصلی: AMD Ryzen AI 7 350 حافظه رم: 16 گیگابایت LPDDR5X حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: بدون حافظه‌ی گرافیکی مجزا پردازنده گرافیکی: AMD Radeon Graphics اندازه صفحه نمایش: 14.0 اینچ رزولوشن: OLED 2880×1800 وزن: 1.28",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1567,11 +1410,7 @@
       "pageInfo": {
         "title": "لپ تاپ 14 اینچی ایسوس  Zenbook UX5406SA Ultra7 256V 16GB 1TB SSD INTEL - ایسوس ایران",
         "meta_description": "پردازنده اصلی: Intel ULTRA7 256V حافظه رم: 16 گیگابایت LPDDR5X حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: Onboard پردازنده گرافیکی: INTEL",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1607,11 +1446,7 @@
       "pageInfo": {
         "title": "لپ تاپ 16 اینچی ایسوس ROG Strix G615JMR i7 14650HX 32GB 1TB SSD RTX 5060 - ایسوس ایران",
         "meta_description": "پردازنده: intel Core i7 14650HX ظرفیت حافظه رم: 32 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: 8 گیگابایت پردازنده گرافیکی: NVIDIA Geforce RTX5060 GDDR7",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1647,11 +1482,7 @@
       "pageInfo": {
         "title": "لپ تاپ 16 اینچی ایسوس مدل ROG Strix G614JV | i7 13650HX | 16GB | 1TB SSD | RTX 4060 - ایسوس ایران",
         "meta_description": "پردازنده: intel Core i7 13650HX ظرفیت حافظه رم: 16 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: 8 گیگابایت پردازنده گرافیکی: NVIDIA GeForce RTX 4060 GDDR6",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1687,11 +1518,7 @@
       "pageInfo": {
         "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming F16 FX608JMR i7 14650HX 32GB 1TB SSD RTX 5060 - ایسوس ایران",
         "meta_description": "پردازنده: intel Core i7 14650HX ظرفیت حافظه رم: 32 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه گرافیکی: 8 گیگابایت GDDR7 پردازنده گرافیکی: NVIDIA",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1727,11 +1554,7 @@
       "pageInfo": {
         "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming FX607VJ Core 5 210H 8GB 1TB SSD RTX 3050 - ایسوس ایران",
         "meta_description": "پردازنده: intel CORE 5 210H ظرفیت حافظه رم: 8 گیگابایت DDR4 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه گرافیکی: 6 گیگابایت پردازنده گرافیکی: NVIDIA GeForce RTX 3050 اندازه",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1767,11 +1590,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0W3 M4 2025 16GB 256GB LLA مشخصات",
         "meta_description": "خرید MacBook Air MW0W3 M4 2025 16GB RAM 256GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0W3 M4 2025 16GB 256GB LLAروی لینک بالا بزنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1807,11 +1626,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW133 M4 2025 16GB 512GB LLA مشخصات",
         "meta_description": "خرید MacBook Air MW133 M4 2025 16GB RAM 512GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW133 M4 2025 16GB 512GB LLAروی لینک بالا بزنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1847,11 +1662,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ 14.2 اینچی اپل مدل MacBook Pro MW2U3 2024 M4 16GB 512GB LLA مشخصات",
         "meta_description": "خرید MacBook Pro MW2U3 2024 M4 با رم 16GB و حافظه 512GB SSD؛ برای مشاهده مشخصات کامل، نظرات کاربران، تصاویر و قیمت روز لپ تاپ 14.2 اینچی اپل مدل MacBook Pro MW2U3 2024 M4 16GB 512GB LLA روی لینک بالا بزنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1887,11 +1698,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0Y3 M4 2025 16GB 256GB LLA مشخصات",
         "meta_description": "خرید MacBook Air MW0Y3 M4 2025 16GB RAM 256GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0Y3 M4 2025 16GB 256GB LLAروی لینک بالا بزنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1927,11 +1734,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ اپل مک بوک ایر MGN93 2020",
         "meta_description": "خرید لپ تاپ 13 اینچی اپل مدل MacBook Air MGN93 2020؛ برای مشاهده عکس ها، مقایسه با Macbook های مشابه و دیدن قیمت مک بوک ایر mgn93 وارد شوید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -1967,11 +1770,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ 13.6 اینچی اپل مدل MacBook Air MC7X4 2022 M2 16GB RAM 256GB مشخصات",
         "meta_description": "خرید Apple MacBook Air MC7X4 2022 M2 16GB RAM 256GB SSD 13.6 inch laptop;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ 13.6 اینچی اپل مدل MacBook Air MC7X4 2022 M2 16GB RAM 256GBروی لینک بالا بزنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2007,11 +1806,7 @@
       "pageInfo": {
         "title": "لپ تاپ لنوو LOQ 15IAX9-X 12450HX | خرید لپ تاپ گیمینگ لنوو 2024",
         "meta_description": "لپ تاپ لنوو LOQ 15IAX9-X 12450HX یک لپ ‌تاپ زیبا، قدرتمند و همه‌کاره که می‌تواند نیازهای کاربران مختلف با بودجه محدود را برآورده کند.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2047,11 +1842,7 @@
       "pageInfo": {
         "title": "لپ تاپ لنوو Legion 7 16IAX10-ZB 275HX | خرید از افراشاپ",
         "meta_description": "لپ تاپ لنوو Legion 7 16IAX10-ZB 275HX یکی از جدیدترین محصولات بازار است که می‌توانید آن را با بهترین قیمت از افراشاپ خریداری کنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2087,11 +1878,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ IdeaPad Slim 3 15IRH8 2023|خرید IdeaPad Slim 3 | افراشاپ",
         "meta_description": "قیمت لپ تاپ Lenovo IdeaPad Slim 3 2023 ، خرید لپ تاپ لنوو IdeaPad Slim 3 15IRH8 2023 به همراه مشخصات و بررسی کامل آیدیاپد اسلیم 3 با بهترین قیمت",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2127,11 +1914,7 @@
       "pageInfo": {
         "title": "لپ تاپ لنوو LOQ 15IRX9 13650HX |‌ قیمت لپ‌تاپ لنوو | خرید لنوو LOQ",
         "meta_description": "لپ تاپ لنوو مدل LOQ 15IRX9 13650HX یک محصول بروز از سری لپ تاپ‌های گیمینگ لنوو مناسب کسانی است که به دنبال لپ تاپ برای بازی و پردازش‌های گرافیکی هستند.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2167,11 +1950,7 @@
       "pageInfo": {
         "title": "لپ تاپ لنوو Legion Pro 5 16IRX9 14650HX (2024) | قیمت لپ تاپ | افراشاپ",
         "meta_description": "شما می‌توانید لپ تاپ لنوو مدل Legion Pro 5 16IRX9 14650HX (2024) را با قیمت مناسب و گارانتی معتبر از فروشگاه اینترنتی افراشاپ خریداری کنید.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     },
     {
@@ -2207,11 +1986,7 @@
       "pageInfo": {
         "title": "قیمت لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U | خرید از افراشاپ",
         "meta_description": "قیمت لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U ، خرید لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U به همراه مشخصات و بررسی کامل با بهترین قیمت.",
-        "keywords": [
-          "خرید لپتاپ ایسوس",
-          "لپتاپ دانشجویی",
-          "لپتاپ سبک"
-        ]
+        "keywords": ["خرید لپتاپ ایسوس", "لپتاپ دانشجویی", "لپتاپ سبک"]
       }
     }
   ]
