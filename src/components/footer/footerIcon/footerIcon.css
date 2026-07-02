@@ -1,0 +1,19 @@
+.footerIconDiv{
+    background-color: #007bff;
+    color: rgb(224, 224, 224);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    margin: 0 3px;
+    cursor: pointer;
+}
+.footerIconDiv:hover{
+    background-color: #2790ff;
+}
+.footerIconDiv:active{
+    background-color: #1787ff;
+}

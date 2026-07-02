@@ -1,0 +1,42 @@
+.footerListDiv {
+  margin-bottom: 20px;
+}
+
+.footerListDiv div {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.footerListDiv ul {
+  list-style-type: none;
+  text-align-last: right;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.footerListDiv ul li {
+  transition: all 0.2s ease;
+  width: 120px;
+  margin-right: 10px;
+}
+.footerListDiv ul li:hover {
+  color: lightgray;
+}
+
+.footerListDiv h4 {
+  font-weight: bold;
+}
+
+.footerImg div div{
+    background-color: white;
+    width: 80px;
+    text-align: center;
+    margin: 4px;
+
+}
+
+.footerImg div div img{
+    height: 80px;
+}
+

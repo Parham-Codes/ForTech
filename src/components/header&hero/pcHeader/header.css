@@ -1,0 +1,66 @@
+.headerContainer {
+  margin: 0 auto;
+  background-color: white;
+}
+
+.myheader {
+  max-width: 1575px;
+  margin: 0 auto;
+}
+
+
+
+.headerContainer .top .right h1 {
+  cursor: pointer;
+}
+
+
+
+.headerContainer .top .right h1 {
+  font-size: 50px;
+}
+
+.headerContainer .searchDiv {
+  margin-top: 10px;
+}
+
+.headerContainer .left .logInBtn {
+  /* استایل‌های اصلی دکمه شما مانند padding, background-color, color, border-radius */
+  background-color: #007bff; /* رنگ اصلی آبی */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease; /* انیمیشن نرم برای هاور */
+
+  /* سایه */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.headerContainer .left .logInBtn:hover {
+  background-color: #0056b3;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.headerContainer .left .logInBtn:active {
+  background-color: #004085;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(0);
+}
+
+.headerContainer .bottom div a {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+/* .headerContainer .bottom{
+  margin-top: 68px;
+} */
+
+
+.headerContainer .bottom .active{
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+}

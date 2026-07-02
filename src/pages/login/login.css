@@ -1,0 +1,21 @@
+.loginContainer{
+    background-color: rgb(198, 227, 255);
+}
+
+.loginContainer input:focus{
+    border: none !important;
+    outline: none !important;
+    
+}
+
+@media screen and (min-width : 992px) {
+    .loginContainer{
+        width: 40%;
+    }
+}
+
+@media screen and (min-width : 1200px) {
+    .loginContainer{
+        width: 30%;
+    }
+}

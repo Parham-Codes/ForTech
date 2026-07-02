@@ -1,0 +1,2218 @@
+{
+  "orders": [
+    {
+      "userId": 1002,
+      "items": [
+        {
+          "id": "P0008",
+          "title": "گوشی موبایل اپل iPhone 17 Pro Max 12GB 1TB Dual Sim نات اکتیو",
+          "price": 187965000,
+          "image": "https://afraa.shop/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-1.webp",
+          "pageUrl": "/products/phones/P0008",
+          "count": 1
+        }
+      ],
+      "totalPrice": 187965000,
+      "customer": {
+        "fullName": "سپهر حسن زاده",
+        "phoneNum": "09101878456",
+        "houseNum": "02144138466",
+        "postalCode": "1478657643",
+        "address": "شهرزیبا , بلوار تعاون , بلوار فرساد شرقی , خ سرو , سرو 4 , پلاک 2/1 , واحد 6"
+      },
+      "status": "تایید شده",
+      "date": "2026-04-25T21:14:48.647Z",
+      "id": 10001
+    },
+    {
+      "userId": 1003,
+      "items": [
+        {
+          "id": "lap001",
+          "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD",
+          "price": "102999000",
+          "image": "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA.webp",
+          "pageUrl": "/products/laptops/lap001",
+          "count": 1
+        },
+        {
+          "id": "P0004",
+          "title": "گوشی موبایل اپل iPhone 14 CH نات اکتیو ظرفیت 128 گیگابایت رم 6 گیگابایت",
+          "price": 56000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-7452_ed0c1b29-f82b-486d-8d7f-3c7a1c119d2d.png",
+          "pageUrl": "/products/phones/P0004",
+          "count": 3
+        },
+        {
+          "id": "P0002",
+          "title": "پرچمدار سامسونگ با نمایشگر 6.8 اینچ Dynamic AMOLED 2X، دوربین 200MP و باتری 5000mAh.",
+          "price": 98000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-34625_3a4d975c-2e8b-4a6e-9c76-7431cfecd42d.png",
+          "pageUrl": "/products/phones/P0002",
+          "count": 3
+        },
+        {
+          "id": "P0003",
+          "title": "گوشی موبایل اپل مدل iPhone 16 Pro Max ZA/A ظرفیت  256 گیگابایت رم 8 گیگابایت رجیستر شده",
+          "price": 153000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-59177_9d9b7e4a-7e12-4787-bd8a-4afe9326bac3.png",
+          "pageUrl": "/products/phones/P0003",
+          "count": 3
+        },
+        {
+          "id": "P0005",
+          "title": "گوشی موبايل شیائومی مدل 14T Pro ظرفیت 1 ترابایت رم 12 گیگابایت",
+          "price": 67000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-63787_1ec500d0-9c68-4e93-a703-b9fc09ad5c47.png",
+          "pageUrl": "/products/phones/P0005",
+          "count": 3
+        },
+        {
+          "id": "P0006",
+          "title": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت 256 گیگابایت رم 8 گیگابایت رجیستر شده",
+          "price": 87000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-70715_429ebaf2-c081-45eb-993d-ba5efa527eee.png",
+          "pageUrl": "/products/phones/P0006",
+          "count": 3
+        },
+        {
+          "id": "P0020",
+          "title": "گوشی موبایل شیائومی Redmi Note 13 Pro 4G 8GB 256GB (گلوبال)",
+          "price": 11249000,
+          "image": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-3.webp",
+          "pageUrl": "/products/phones/P0020",
+          "count": 21
+        },
+        {
+          "id": "P0014",
+          "title": "گوشی موبایل شیائومی Redmi 14C 6GB 128GB (گلوبال)",
+          "price": 14000000,
+          "image": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-14C-1.webp",
+          "pageUrl": "/products/phones/P0014",
+          "count": 28
+        }
+      ],
+      "totalPrice": 2114228000,
+      "customer": {
+        "fullName": "rastin tgh",
+        "phoneNum": "09021878456",
+        "houseNum": "02144138466",
+        "postalCode": "1478657643",
+        "address": "شهرزیبا سرو سرو 4 پلاک 2/1 واحد 6"
+      },
+      "status": "در حال پردازش",
+      "date": "2026-04-27T17:12:44.562Z",
+      "id": 10002
+    },
+    {
+      "userId": 1002,
+      "items": [
+        {
+          "id": "lap001",
+          "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD",
+          "price": "102999000",
+          "image": "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA.webp",
+          "pageUrl": "/products/laptops/lap001",
+          "count": 1
+        },
+        {
+          "id": "P0001",
+          "title": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت | 256 گیگابایت | رم 8 گیگابایت | رجیستر شده",
+          "price": 138000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-83298_e10c0f0a-2ce5-4aa2-8dcf-f572ce183058.png",
+          "pageUrl": "/products/phones/P0001",
+          "count": 1
+        }
+      ],
+      "totalPrice": 240999000,
+      "customer": {
+        "fullName": "سپهر حسن زاده",
+        "phoneNum": "09378467564",
+        "houseNum": "02144157785",
+        "postalCode": "1264575846",
+        "address": "شهرزیبا سرو سرو 1 پلاک 3 واحد 2"
+      },
+      "status": "در انتظار تایید",
+      "date": "2026-04-28T08:26:12.780Z",
+      "id": 10003
+    },
+    {
+      "userId": 1004,
+      "items": [
+        {
+          "id": "lap001",
+          "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD",
+          "price": "102999000",
+          "image": "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA.webp",
+          "pageUrl": "/products/laptops/lap001",
+          "count": 1
+        }
+      ],
+      "totalPrice": 102999000,
+      "customer": {
+        "fullName": "سمیه کرباسیان",
+        "phoneNum": "09120617456",
+        "houseNum": "02144138466",
+        "postalCode": "1470874667",
+        "address": "تهران ، منطقه ۵ ، شهرزیبا , بلوار تعاون ، بلوار آلاله شرقی ، خیابان سرو ، کوچه سرو ۴ ، پلاک ۲/۱ ، واحد ۶"
+      },
+      "status": "تایید شده",
+      "date": "2026-04-29T10:21:21.757Z",
+      "id": 10004
+    },
+    {
+      "userId": 1005,
+      "items": [
+        {
+          "id": "P0014",
+          "title": "گوشی موبایل شیائومی Redmi 14C 6GB 128GB (گلوبال)",
+          "price": 14000000,
+          "image": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-14C-1.webp",
+          "pageUrl": "/products/phones/P0014",
+          "count": 1
+        }
+      ],
+      "totalPrice": 14000000,
+      "customer": {
+        "fullName": "ماهان باغبان",
+        "phoneNum": "09126736537",
+        "houseNum": "02144167887",
+        "postalCode": "1486575355",
+        "address": "شهرزیبا ، منطقه ۵ ، بلوار تعاون ، بلوار آلاله شرقی ، خیابان شربیانی ، کوچه رحمان پور ، پلاک ۱ ، واحد ۱۰"
+      },
+      "status": "در انتظار تایید",
+      "date": "2026-05-01T11:03:22.410Z",
+      "id": 10005
+    },
+    {
+      "userId": 1003,
+      "items": [
+        {
+          "id": "P0020",
+          "title": "گوشی موبایل شیائومی Redmi Note 13 Pro 4G 8GB 256GB (گلوبال)",
+          "price": 11249000,
+          "image": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-3.webp",
+          "pageUrl": "/products/phones/P0020",
+          "count": 1
+        },
+        {
+          "id": "P0004",
+          "title": "گوشی موبایل اپل iPhone 14 CH نات اکتیو ظرفیت 128 گیگابایت رم 6 گیگابایت",
+          "price": 56000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-7452_ed0c1b29-f82b-486d-8d7f-3c7a1c119d2d.png",
+          "pageUrl": "/products/phones/P0004",
+          "count": 1
+        },
+        {
+          "id": "P0003",
+          "title": "گوشی موبایل اپل مدل iPhone 16 Pro Max ZA/A ظرفیت  256 گیگابایت رم 8 گیگابایت رجیستر شده",
+          "price": 153000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-59177_9d9b7e4a-7e12-4787-bd8a-4afe9326bac3.png",
+          "pageUrl": "/products/phones/P0003",
+          "count": 1
+        },
+        {
+          "id": "P0008",
+          "title": "گوشی موبایل اپل iPhone 17 Pro Max 12GB 1TB Dual Sim نات اکتیو",
+          "price": 187965000,
+          "image": "https://afraa.shop/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-1.webp",
+          "pageUrl": "/products/phones/P0008",
+          "count": 1
+        },
+        {
+          "id": "P0006",
+          "title": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت 256 گیگابایت رم 8 گیگابایت رجیستر شده",
+          "price": 87000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-70715_429ebaf2-c081-45eb-993d-ba5efa527eee.png",
+          "pageUrl": "/products/phones/P0006",
+          "count": 1
+        },
+        {
+          "id": "lap006",
+          "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming FX607VJ Core 5 210H 8GB 1TB SSD RTX 3050",
+          "price": "88499000",
+          "image": "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-1.webp",
+          "pageUrl": "/products/laptops/lap006",
+          "count": 1
+        },
+        {
+          "id": "P0001",
+          "title": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت | 256 گیگابایت | رم 8 گیگابایت | رجیستر شده",
+          "price": 138000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-83298_e10c0f0a-2ce5-4aa2-8dcf-f572ce183058.png",
+          "pageUrl": "/products/phones/P0001",
+          "count": 1
+        }
+      ],
+      "totalPrice": 721713000,
+      "customer": {
+        "fullName": "راستین تقی خانی",
+        "phoneNum": "09021878456",
+        "houseNum": "02144138466",
+        "postalCode": "1465787768",
+        "address": "شهرزیبا , بلوار تعاون , بلوار فرساد شرقی , خ سرو , سرو 4 , پلاک 2/1 , واحد 6"
+      },
+      "status": "در انتظار تایید",
+      "date": "2026-05-02T09:47:04.302Z",
+      "id": 10006
+    },
+    {
+      "userId": 1001,
+      "items": [
+        {
+          "id": "P0020",
+          "title": "گوشی موبایل شیائومی Redmi Note 13 Pro 4G 8GB 256GB (گلوبال)",
+          "price": 11249000,
+          "image": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-3.webp",
+          "pageUrl": "/products/phones/P0020",
+          "count": 3
+        },
+        {
+          "id": "P0011",
+          "title": "گوشی موبایل ناتینگ Nothing Phone 2 12GB 256GB",
+          "price": 220000000,
+          "image": "https://afraa.shop/wp-content/uploads/2025/05/Nothing-Phone-2-1.webp",
+          "pageUrl": "/products/phones/P0011",
+          "count": 2
+        },
+        {
+          "id": "P0004",
+          "title": "گوشی موبایل اپل iPhone 14 CH نات اکتیو ظرفیت 128 گیگابایت رم 6 گیگابایت",
+          "price": 56000000,
+          "image": "https://www.technolife.com/image/small_product-TLP-7452_ed0c1b29-f82b-486d-8d7f-3c7a1c119d2d.png",
+          "pageUrl": "/products/phones/P0004",
+          "count": 1
+        }
+      ],
+      "totalPrice": 529747000,
+      "customer": {
+        "fullName": "پرهام تقی خانی",
+        "phoneNum": "09101878456",
+        "houseNum": "02144138466",
+        "postalCode": "1487631876",
+        "address": "شهرزیبا , بلوار تعاون , بلوار فرساد شرقی , خ سرو , سرو 4 , پلاک 2/1 , واحد 6"
+      },
+      "status": "در انتظار تایید ",
+      "date": "2026-05-02T09:52:00.005Z",
+      "id": 10007
+    },
+    {
+      "userId": 1006,
+      "items": [
+        {
+          "id": "P0017",
+          "title": "گوشی موبایل شیائومی REDMI 13 8GB 128GB (گلوبال)",
+          "price": 12004000,
+          "image": "https://afraa.shop/wp-content/uploads/2025/08/XIAOMI-Redmi-13-2.webp",
+          "pageUrl": "/products/phones/P0017",
+          "count": 1
+        },
+        {
+          "id": "lap001",
+          "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD",
+          "price": "102999000",
+          "image": "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA.webp",
+          "pageUrl": "/products/laptops/lap001",
+          "count": 1
+        },
+        {
+          "id": "lap006",
+          "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming FX607VJ Core 5 210H 8GB 1TB SSD RTX 3050",
+          "price": "88499000",
+          "image": "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-1.webp",
+          "pageUrl": "/products/laptops/lap006",
+          "count": 2
+        }
+      ],
+      "totalPrice": 292001000,
+      "customer": {
+        "fullName": "پرهام تقی خانی",
+        "phoneNum": "09101878456",
+        "houseNum": "02144138466",
+        "postalCode": "1487637731",
+        "address": "شهرزیبا"
+      },
+      "status": "در انتظار تایید",
+      "date": "2026-05-21T21:13:38.539Z",
+      "id": 10008
+    }
+  ],
+  "users": [
+    {
+      "id": 1001,
+      "name": "پرهام",
+      "lastName": "تقی خانی",
+      "email": "parhamtaghikhani.31@gmail.com",
+      "password": "parham1234",
+      "role": "admin"
+    },
+    {
+      "name": "سپهر",
+      "lastName": "حسن زاده",
+      "email": "sepehrhasanzadeh.17@gmail.com",
+      "password": "parham1234",
+      "id": 1002,
+      "role": "user"
+    },
+    {
+      "name": "راستین",
+      "lastName": "تقی خانی",
+      "email": "rastintaghikhani.15@gmail.com",
+      "password": "parham1234",
+      "id": 1003,
+      "role": "user"
+    },
+    {
+      "name": "سمیه",
+      "lastName": "کرباسیان",
+      "email": "somayehKarbasian@gmail.com",
+      "password": "somayeh1234",
+      "id": 1004,
+      "role": "user"
+    },
+    {
+      "name": "ماهان",
+      "lastName": "باغبان",
+      "email": "mahanbaghban@gmail.com",
+      "password": "parham1234",
+      "role": "user",
+      "id": 1005
+    },
+    {
+      "name": "پرهام ۲",
+      "lastName": "دیجوجین",
+      "email": "parhamtaghikhani2023@gmail.com",
+      "password": "parham1234",
+      "role": "user",
+      "id": 1006
+    },
+    {
+      "name": "پرهام",
+      "lastName": "تقی خانی",
+      "email": "parhamtaghikhani@gmail.com",
+      "password": "Parham@1387",
+      "role": "user",
+      "id": 1007
+    }
+  ],
+  "products": [
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e342d"
+      },
+      "id": "P0001",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "short_description": "iPhone 15 Pro با بدنه تیتانیوم، تراشه A17 Pro، نمایشگر 6.1 اینچ Super Retina XDR و دوربین پیشرفته.",
+      "card_description": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت | 256 گیگابایت | رم 8 گیگابایت | رجیستر شده",
+      "price": 138000000,
+      "count_stock": 8,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-83298_e10c0f0a-2ce5-4aa2-8dcf-f572ce183058.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-4-TLP-83298_e9e1fd30-e117-4b66-94a9-25ea8dad3349.png",
+        "https://www.technolife.com/image/gallery-14-TLP-83298_9004c38f-dd24-4487-b6d0-7d127f5cdc4e.png",
+        "https://www.technolife.com/image/gallery-9-TLP-83298_29f72ef2-a7a7-49da-aeb5-a10ae12c5ad3.png"
+      ],
+      "phoneInfo": {
+        "os": "iOS 17",
+        "chipset": "Apple A17 Pro",
+        "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
+        "gpu": "Apple GPU (6-core)",
+        "ram": "8GB",
+        "storage_options": [
+          "128GB",
+          "     256GB",
+          "     512GB",
+          "     1TB"
+        ],
+        "display": {
+          "size_in": 6.1,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2556x1179",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 3274,
+          "charging": "USB-C fast charge (advertised up to 25W)"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 15 Pro | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی iPhone 15 Pro: تراشه A17 Pro، نمایشگر 6.1 اینچی، بدنهٔ تیتانیوم و دوربین پیشرفته.",
+        "keywords": [
+          "iPhone 15 Pro",
+          "      Apple iPhone",
+          "      خرید آیفون"
+        ],
+        "features": [
+          "تراشهٔ A17 Pro",
+          "      بدنهٔ تیتانیوم سبک",
+          "      نمایشگر 6.1 اینچ Super Retina XDR با 120Hz"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e342e"
+      },
+      "id": "P0002",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "short_description": "پرچمدار سامسونگ با نمایشگر 6.8 اینچ Dynamic AMOLED 2X، دوربین 200MP و باتری 5000mAh.",
+      "card_description": "پرچمدار سامسونگ با نمایشگر 6.8 اینچ Dynamic AMOLED 2X، دوربین 200MP و باتری 5000mAh.",
+      "price": 98000000,
+      "count_stock": 8,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-34625_3a4d975c-2e8b-4a6e-9c76-7431cfecd42d.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-6-TLP-34625_46d26823-d810-4b68-85fc-61cb84b665a4.png",
+        "https://www.technolife.com/image/gallery-10-TLP-34625_84909ec7-f699-4b10-8462-b7c8b992dd3a.png",
+        "https://www.technolife.com/image/gallery-1-TLP-34625_77eddebf-54a2-4d56-a168-8c2dbb04c890.png"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, One UI",
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy / Exynos 2400 (market dependent)",
+        "cpu": "Octa-core (1x3.36 GHz + 3x2.8 GHz + 4x2.0 GHz)",
+        "gpu": "Adreno (model varies)",
+        "ram": "12GB",
+        "storage_options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "display": {
+          "size_in": 6.8,
+          "type": "Dynamic AMOLED 2X",
+          "resolution": "3120x1440",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "45W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy S24 Ultra | خرید و مشخصات",
+        "meta_description": "مشخصات و قیمت Galaxy S24 Ultra: نمایشگر 6.8 اینچ، دوربین 200MP، باتری 5000mAh و تراشهٔ پرقدرت.",
+        "keywords": [
+          "Samsung Galaxy S24 Ultra",
+          "S24 Ultra",
+          "خرید سامسونگ"
+        ],
+        "features": [
+          "نمایشگر 6.8 اینچ Quad HD+ با نرخ 120Hz",
+          "دوربین اصلی 200MP",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e342f"
+      },
+      "id": "P0003",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "short_description": "iPhone 16 Pro با بدنه تیتانیوم، تراشه A18 Pro، نمایشگر 6.2 اینچ Super Retina XDR و دوربین پیشرفته.",
+      "card_description": "گوشی موبایل اپل مدل iPhone 16 Pro Max ZA/A ظرفیت  256 گیگابایت رم 8 گیگابایت رجیستر شده",
+      "price": 153000000,
+      "count_stock": 6,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-59177_9d9b7e4a-7e12-4787-bd8a-4afe9326bac3.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-2-TLP-59177_3c1908b9-606f-43e3-9994-047c911323f8.png",
+        "https://www.technolife.com/image/gallery-11-TLP-59177_f6400cb7-19ec-4272-b58d-a7a34e9e2013.png",
+        "https://www.technolife.com/image/gallery-10-TLP-59177_235199e7-584b-4528-bcda-1b3866ea1e42.png"
+      ],
+      "phoneInfo": {
+        "os": "iOS 18",
+        "chipset": "Apple A18 Pro",
+        "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
+        "gpu": "Apple GPU (6-core)",
+        "ram": "8GB",
+        "storage_options": [
+          "128GB",
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "display": {
+          "size_in": 6.2,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2592x1192",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 3350,
+          "charging": "USB-C fast charge (30W)"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 16 Pro | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی iPhone 16 Pro: تراشه A18 Pro، نمایشگر 6.2 اینچی و بدنهٔ تیتانیوم.",
+        "keywords": [
+          "iPhone 16 Pro",
+          "Apple iPhone",
+          "خرید آیفون"
+        ],
+        "features": [
+          "تراشهٔ A18 Pro",
+          "بدنهٔ تیتانیوم سبک",
+          "نمایشگر 6.2 اینچ Super Retina XDR با 120Hz"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3430"
+      },
+      "id": "P0004",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "short_description": "iPhone 14 Pro با بدنه استیل ضد زنگ، تراشه A16 Bionic، نمایشگر 6.1 اینچ Super Retina XDR و دوربین پیشرفته.",
+      "card_description": "گوشی موبایل اپل iPhone 14 CH نات اکتیو ظرفیت 128 گیگابایت رم 6 گیگابایت",
+      "price": 56000000,
+      "count_stock": 10,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-7452_ed0c1b29-f82b-486d-8d7f-3c7a1c119d2d.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-3-TLP-7452_e1ee9cd8-07f0-4fa2-b7b2-c366a4fe87de.png",
+        "https://www.technolife.com/image/gallery-4-TLP-7452_c271b8e9-0033-435e-8134-53b62c27a85e.png",
+        "https://www.technolife.com/image/gallery-6-TLP-7452_b45fac7c-80fc-424c-9f26-e7a2592fcfd9.png"
+      ],
+      "phoneInfo": {
+        "os": "iOS 16",
+        "chipset": "Apple A16 Bionic",
+        "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
+        "gpu": "Apple GPU (5-core)",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "display": {
+          "size_in": 6.1,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2556x1179",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 3200,
+          "charging": "USB-C fast charge (20W)"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 14 Pro | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی iPhone 14 Pro: تراشه A16 Bionic، نمایشگر 6.1 اینچی و دوربین پیشرفته.",
+        "keywords": [
+          "iPhone 14 Pro",
+          "Apple iPhone",
+          "خرید آیفون"
+        ],
+        "features": [
+          "تراشهٔ A16 Bionic",
+          "نمایشگر 6.1 اینچ Super Retina XDR",
+          "دوربین پیشرفته"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3431"
+      },
+      "id": "P0005",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14T Pro",
+      "short_description": "Xiaomi 14T Pro با نمایشگر 6.67 اینچ 144Hz، پردازنده Dimensity 9300+ و باتری 5000mAh با شارژ 120W.",
+      "card_description": "گوشی موبايل شیائومی مدل 14T Pro ظرفیت 1 ترابایت رم 12 گیگابایت",
+      "price": 67000000,
+      "count_stock": 20,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-63787_1ec500d0-9c68-4e93-a703-b9fc09ad5c47.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-4-TLP-63787_9d52325b-def1-406a-981a-809bb6619a23.png",
+        "https://www.technolife.com/image/gallery-3-TLP-63787_0bee6489-520a-4d66-98f2-8308ff392d46.png",
+        "https://www.technolife.com/image/gallery-9-TLP-63787_c8cb14fb-c52d-4c32-a92f-adf5e1e512e4.png"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, HyperOS",
+        "chipset": "MediaTek Dimensity 9300+",
+        "cpu": "Octa-core (1x3.25 GHz + 3x2.85 GHz + 4x2.0 GHz)",
+        "gpu": "Immortalis-G720 MC12",
+        "ram": "8GB / 12GB",
+        "storage_options": [
+          "256GB",
+          "512GB"
+        ],
+        "display": {
+          "size_in": 6.67,
+          "type": "AMOLED (Next-gen 144Hz)",
+          "resolution": "2712x1220",
+          "refresh_rate_hz": 144
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "120W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi 14T Pro | خرید و مشخصات",
+        "meta_description": "مشخصات Xiaomi 14T Pro: نمایشگر 6.67 اینچ با 144Hz، Dimensity 9300+، باتری 5000mAh و شارژ 120W.",
+        "keywords": [
+          "Xiaomi 14T Pro",
+          "Xiaomi 14T",
+          "خرید شیائومی"
+        ],
+        "features": [
+          "پردازنده Dimensity 9300+",
+          "نمایشگر 6.67 اینچ 144Hz",
+          "شارژ سریع 120W"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3432"
+      },
+      "id": "P0006",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "short_description": "iPhone 15 Pro Max با نمایشگر 6.7 اینچی، تراشه A17 Pro، بدنه تیتانیوم و باتری بزرگ‌تر.",
+      "card_description": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت 256 گیگابایت رم 8 گیگابایت رجیستر شده",
+      "price": 87000000,
+      "count_stock": 9,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-70715_429ebaf2-c081-45eb-993d-ba5efa527eee.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-1-TLP-70715_db72233b-131c-45b9-bb70-b2b608d13e62.png",
+        "https://www.technolife.com/image/gallery-12-TLP-70715_5a1cb19e-28f0-427a-b7cf-3debee5e2cca.png"
+      ],
+      "phoneInfo": {
+        "os": "iOS 17",
+        "chipset": "Apple A17 Pro",
+        "cpu": "Hexa-core",
+        "gpu": "Apple GPU (6-core)",
+        "ram": "8GB",
+        "storage_options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "display": {
+          "size_in": 6.7,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2796x1290",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 4422,
+          "charging": "USB-C fast charge up to 25W"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 15 Pro Max | خرید و مشخصات",
+        "meta_description": "مشخصات iPhone 15 Pro Max: نمایشگر 6.7 اینچ، A17 Pro و بدنه تیتانیوم.",
+        "keywords": [
+          "Apple iPhone 15 Pro Max",
+          "Apple",
+          "گوشی موبایل"
+        ],
+        "features": [
+          "نمایشگر 6.7 اینچ Super Retina XDR",
+          "تراشه A17 Pro",
+          "باتری 4422mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3433"
+      },
+      "id": "P0007",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "short_description": "iPhone 15 با نمایشگر 6.1 اینچ Super Retina XDR و تراشه A16 Bionic.",
+      "card_description": "گوشی موبایل اپل مدل iPhone 15 Pro Max CH/A نات اکتیو ظرفیت 256 گیگابایت رم 8 گیگابایت رجیستر شده",
+      "price": 46500000,
+      "count_stock": 10,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-70715_429ebaf2-c081-45eb-993d-ba5efa527eee.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-12-TLP-70715_5a1cb19e-28f0-427a-b7cf-3debee5e2cca.png"
+      ],
+      "phoneInfo": {
+        "os": "iOS 17",
+        "chipset": "Apple A16 Bionic",
+        "cpu": "Hexa-core",
+        "gpu": "Apple GPU",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ],
+        "display": {
+          "size_in": 6.1,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2556x1179",
+          "refresh_rate_hz": 60
+        },
+        "battery": {
+          "capacity_mAh": 3349,
+          "charging": "USB-C fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 15 | خرید و مشخصات",
+        "meta_description": "مشخصات iPhone 15: نمایشگر 6.1 اینچ، تراشه A16 Bionic و طراحی سبک.",
+        "keywords": [
+          "Apple iPhone 15",
+          "Apple",
+          "گوشی موبایل"
+        ],
+        "features": [
+          "نمایشگر 6.1 اینچ OLED",
+          "تراشه A16 Bionic",
+          "دوربین دوگانه 48MP"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3434"
+      },
+      "id": "P0008",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "short_description": "iPhone 17 Pro با بدنه تیتانیوم، تراشه A19 Pro، نمایشگر 6.3 اینچ Super Retina XDR و دوربین پیشرفته با قابلیت AI Photography.",
+      "card_description": "گوشی موبایل اپل iPhone 17 Pro Max 12GB 1TB Dual Sim نات اکتیو",
+      "price": 187965000,
+      "count_stock": 4,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-3.webp",
+        "https://afraa.shop/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-2.webp"
+      ],
+      "phoneInfo": {
+        "os": "iOS 19",
+        "chipset": "Apple A19 Pro",
+        "cpu": "Hexa-core Apple (2x Avalanche + 4x Blizzard)",
+        "gpu": "Apple GPU (6-core)",
+        "ram": "8GB",
+        "storage_options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "display": {
+          "size_in": 6.3,
+          "type": "Super Retina XDR OLED",
+          "resolution": "2628x1200",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 3400,
+          "charging": "USB-C fast charge (35W)"
+        }
+      },
+      "pageInfo": {
+        "title": "Apple iPhone 17 Pro | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی iPhone 17 Pro: تراشه A19 Pro، نمایشگر 6.3 اینچی و دوربین پیشرفته با AI Photography.",
+        "keywords": [
+          "iPhone 17 Pro",
+          "Apple iPhone",
+          "خرید آیفون"
+        ],
+        "features": [
+          "تراشهٔ A19 Pro",
+          "بدنهٔ تیتانیوم سبک",
+          "نمایشگر 6.3 اینچ Super Retina XDR با 120Hz",
+          "دوربین AI Photography"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3435"
+      },
+      "id": "P0009",
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "short_description": "Samsung Galaxy S24 با نمایشگر 6.2 اینچ Dynamic AMOLED 2X و طراحی جمع‌و‌جور.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy S24 FE 8GB 256GB (ویتنام)",
+      "price": 48256000,
+      "count_stock": 15,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/10/Galaxy-S24-FE-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/10/Galaxy-S24-FE-2.webp",
+        "https://afraa.shop/wp-content/uploads/2024/10/Galaxy-S24-FE-3.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, One UI",
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+        "cpu": "Octa-core",
+        "gpu": "Adreno",
+        "ram": "8GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.2,
+          "type": "Dynamic AMOLED 2X",
+          "resolution": "2340x1080",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 3900,
+          "charging": "25W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy S24 | خرید و مشخصات",
+        "meta_description": "مشخصات Galaxy S24: نمایشگر 6.2 اینچی، Snapdragon 8 Gen 3 و طراحی سبک.",
+        "keywords": [
+          "Samsung Galaxy S24",
+          "Samsung",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3436"
+      },
+      "id": "P0010",
+      "brand": "Samsung",
+      "model": "Galaxy S24+",
+      "short_description": "Samsung Galaxy S24+ با نمایشگر 6.7 اینچ و باتری قوی‌تر.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy S24 Ultra 12GB 256GB (ویتنام)",
+      "price": 98752000,
+      "count_stock": 9,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/10/Galaxy-S24-Ultra-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/10/Galaxy-S24-Ultra-2.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, One UI",
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+        "cpu": "Octa-core",
+        "gpu": "Adreno",
+        "ram": "8GB",
+        "storage_options": [
+          "256GB",
+          "512GB"
+        ],
+        "display": {
+          "size_in": 6.7,
+          "type": "Dynamic AMOLED 2X",
+          "resolution": "2960x1344",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 4900,
+          "charging": "45W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy S24+ | خرید و مشخصات",
+        "meta_description": "مشخصات Galaxy S24+: نمایشگر 6.7 اینچ و باتری 4900mAh.",
+        "keywords": [
+          "Samsung Galaxy S24+",
+          "Samsung",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3437"
+      },
+      "id": "P0011",
+      "brand": "Google",
+      "model": "Pixel 8",
+      "short_description": "Google Pixel 8 با دوربین قوی، پردازنده Tensor G3 و تجربهٔ Android خالص.",
+      "card_description": "گوشی موبایل ناتینگ Nothing Phone 2 12GB 256GB",
+      "price": 220000000,
+      "count_stock": 15,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931da1552cffcf0435d1e",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/05/Nothing-Phone-2-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/05/Nothing-Phone-2-5.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 14",
+        "chipset": "Google Tensor G3",
+        "cpu": "Octa-core",
+        "gpu": "Arm Mali or custom",
+        "ram": "8GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.2,
+          "type": "OLED",
+          "resolution": "1080x2400",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 4500,
+          "charging": "Fast wired/wireless"
+        }
+      },
+      "pageInfo": {
+        "title": "Google Pixel 8 | خرید و مشخصات",
+        "meta_description": "مشخصات Google Pixel 8: Tensor G3 و دوربین‌های پیشرفته.",
+        "keywords": [
+          "Google Pixel 8",
+          "Google",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3438"
+      },
+      "id": "P0012",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14",
+      "short_description": "Xiaomi 14 با پردازنده Snapdragon 8 Gen 3، نمایشگر 6.36 اینچ و طراحی جمع‌وجور.",
+      "card_description": "گوشی موبایل شیائومی Redmi Note 14S 12GB 512GB (گلوبال)",
+      "price": 23400000,
+      "count_stock": 11,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/05/Redmi-Note-14S-1-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/05/Redmi-Note-14S-3-1.webp",
+        "https://afraa.shop/wp-content/uploads/2025/05/Redmi-Note-14S-2-1.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, HyperOS",
+        "chipset": "Snapdragon 8 Gen 3",
+        "cpu": "Octa-core",
+        "gpu": "Adreno",
+        "ram": "8GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.36,
+          "type": "AMOLED",
+          "resolution": "1212x2712",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 4600,
+          "charging": "67W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi Xiaomi 14 | خرید و مشخصات",
+        "meta_description": "مشخصات Xiaomi 14: پردازنده Snapdragon 8 Gen 3 و نمایشگر 6.36 اینچی.",
+        "keywords": [
+          "Xiaomi Xiaomi 14",
+          "Xiaomi",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3439"
+      },
+      "id": "P0013",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14 Pro",
+      "short_description": "Xiaomi 14 Pro با دوربین لایکا، تراشهٔ قوی و نمایشگر 6.73 اینچ.",
+      "card_description": "گوشی موبایل شیائومی Mi 14T Pro 12GB 512GB (گلوبال)",
+      "price": 60945000,
+      "count_stock": 7,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/12/Mi-14T-Pro-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/12/Mi-14T-Pro-12.webp",
+        "https://afraa.shop/wp-content/uploads/2024/12/Mi-14T-Pro-9.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 14, HyperOS",
+        "chipset": "Snapdragon 8 Gen 3",
+        "cpu": "Octa-core",
+        "gpu": "Adreno",
+        "ram": "12GB",
+        "storage_options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "display": {
+          "size_in": 6.73,
+          "type": "AMOLED",
+          "resolution": "3200x1440",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 4900,
+          "charging": "120W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi Xiaomi 14 Pro | خرید و مشخصات",
+        "meta_description": "مشخصات Xiaomi 14 Pro: دوربین لایکا و شارژ 120W.",
+        "keywords": [
+          "Xiaomi Xiaomi 14 Pro",
+          "Xiaomi",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343a"
+      },
+      "id": "P0014",
+      "brand": "Xiaomi",
+      "model": "Redmi 12C",
+      "short_description": "Xiaomi Redmi 12C با نمایشگر 6.71 اینچ LCD، تراشه MediaTek Helio G85، دوربین دوگانه و باتری 5000mAh.",
+      "card_description": "گوشی موبایل شیائومی Redmi 14C 6GB 128GB (گلوبال)",
+      "price": 14000000,
+      "count_stock": 34,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-14C-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/12/Redmi-14C-3.webp",
+        "https://afraa.shop/wp-content/uploads/2024/12/Redmi-14C-14.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "MediaTek Helio G85",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52",
+        "ram": "3GB",
+        "storage_options": [
+          "32GB",
+          "64GB"
+        ],
+        "display": {
+          "size_in": 6.71,
+          "type": "LCD",
+          "resolution": "720x1650",
+          "refresh_rate_hz": 60
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "18W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi Redmi 12C | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Redmi 12C: تراشه MediaTek Helio G85، نمایشگر 6.71 اینچی و باتری 5000mAh.",
+        "keywords": [
+          "Redmi 12C",
+          "Xiaomi",
+          "گوشی پایین رده"
+        ],
+        "features": [
+          "تراشه MediaTek Helio G85",
+          "نمایشگر 6.71 اینچ LCD",
+          "دوربین دوگانه",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343b"
+      },
+      "id": "P0015",
+      "brand": "Samsung",
+      "model": "Galaxy A36 5G",
+      "short_description": "Samsung Galaxy A36 5G با نمایشگر 6.5 اینچ Super AMOLED، تراشه MediaTek Dimensity 6100، دوربین سه‌گانه و باتری 5000mAh.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy A36 8GB 128GB (2025) (ویتنام)",
+      "price": 26000000,
+      "count_stock": 20,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/04/Galaxy-A36-2025-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/04/Galaxy-A36-2025-16.webp",
+        "https://afraa.shop/wp-content/uploads/2025/04/Galaxy-A36-2025-6.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "MediaTek Dimensity 6100",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.5,
+          "type": "Super AMOLED",
+          "resolution": "2400x1080",
+          "refresh_rate_hz": 90
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "25W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy A36 5G | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Galaxy A36 5G: تراشه MediaTek Dimensity 6100، نمایشگر 6.5 اینچی Super AMOLED و باتری 5000mAh.",
+        "keywords": [
+          "Galaxy A36 5G",
+          "Samsung Galaxy",
+          "خرید گوشی سامسونگ"
+        ],
+        "features": [
+          "تراشهٔ MediaTek Dimensity 6100",
+          "نمایشگر 6.5 اینچ Super AMOLED",
+          "دوربین سه‌گانه",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343c"
+      },
+      "id": "P0016",
+      "brand": "Samsung",
+      "model": "Galaxy M14",
+      "short_description": "Samsung Galaxy M14 با نمایشگر 6.6 اینچ PLS LCD، تراشه Exynos 1330، دوربین سه‌گانه و باتری 6000mAh.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy S25 Edge 12GB 512GB (2025)",
+      "price": 16700000,
+      "count_stock": 25,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/07/Galaxy-S25-Edge-1.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/07/Galaxy-S25-Edge-12.webp",
+        "https://afraa.shop/wp-content/uploads/2025/07/Galaxy-S25-Edge-2.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "Exynos 1330",
+        "cpu": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G68",
+        "ram": "4GB",
+        "storage_options": [
+          "64GB",
+          "128GB"
+        ],
+        "display": {
+          "size_in": 6.6,
+          "type": "PLS LCD",
+          "resolution": "1080x2408",
+          "refresh_rate_hz": 90
+        },
+        "battery": {
+          "capacity_mAh": 6000,
+          "charging": "15W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy M14 | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Galaxy M14: تراشه Exynos 1330، نمایشگر 6.6 اینچی و باتری 6000mAh.",
+        "keywords": [
+          "Galaxy M14",
+          "Samsung Galaxy",
+          "گوشی میان رده سامسونگ"
+        ],
+        "features": [
+          "تراشهٔ Exynos 1330",
+          "نمایشگر 6.6 اینچ PLS LCD",
+          "دوربین سه‌گانه",
+          "باتری 6000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343d"
+      },
+      "id": "P0017",
+      "brand": "Xiaomi",
+      "model": "Redmi 13",
+      "short_description": "Xiaomi Redmi 13 با نمایشگر 6.5 اینچ IPS LCD، تراشه MediaTek Helio G85، دوربین دوگانه و باتری 5000mAh.",
+      "card_description": "گوشی موبایل شیائومی REDMI 13 8GB 128GB (گلوبال)",
+      "price": 12004000,
+      "count_stock": 29,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/08/XIAOMI-Redmi-13-2.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/08/XIAOMI-Redmi-13-6.webp",
+        "https://afraa.shop/wp-content/uploads/2025/05/Redmi-13-5.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "MediaTek Helio G85",
+        "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "gpu": "Mali-G52",
+        "ram": "4GB",
+        "storage_options": [
+          "64GB",
+          "128GB"
+        ],
+        "display": {
+          "size_in": 6.5,
+          "type": "IPS LCD",
+          "resolution": "1080x2408",
+          "refresh_rate_hz": 60
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "18W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi Redmi 13 | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Redmi 13: تراشه MediaTek Helio G85، نمایشگر 6.5 اینچی و باتری 5000mAh.",
+        "keywords": [
+          "Redmi 13",
+          "Xiaomi",
+          "گوشی پایین رده"
+        ],
+        "features": [
+          "تراشه MediaTek Helio G85",
+          "نمایشگر 6.5 اینچ IPS LCD",
+          "دوربین دوگانه",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343e"
+      },
+      "id": "P0018",
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "short_description": "Samsung Galaxy A54 میان‌رده محبوب با توازن خوب بین قیمت و امکانات.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy A16 4G 8GB 256GB",
+      "price": 17900000,
+      "count_stock": 25,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c927b01552cffcf0435d13",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/12/Galaxy-A16-4G-3.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/12/Galaxy-A16-4G-4.webp",
+        "https://afraa.shop/wp-content/uploads/2024/12/Galaxy-A16-4G-1.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13/14, One UI",
+        "chipset": "Exynos 1380",
+        "cpu": "Octa-core",
+        "gpu": "Mali-G68",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.4,
+          "type": "Super AMOLED",
+          "resolution": "2340x1080",
+          "refresh_rate_hz": 120
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "25W wired"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy A54 | خرید و مشخصات",
+        "meta_description": "مشخصات Galaxy A54: میان‌رده با باتری 5000mAh و نمایشگر 120Hz.",
+        "keywords": [
+          "Samsung Galaxy A54",
+          "Samsung",
+          "گوشی موبایل"
+        ],
+        "features": []
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e343f"
+      },
+      "id": "P0019",
+      "brand": "Samsung",
+      "model": "Galaxy A24",
+      "short_description": "Samsung Galaxy A24 با نمایشگر 6.5 اینچ Super AMOLED، تراشه MediaTek Helio G99، دوربین چهارگانه و باتری 5000mAh.",
+      "card_description": "گوشی موبایل سامسونگ Galaxy A05 4GB 64GB",
+      "price": 8000000,
+      "count_stock": 18,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "64f1c1b2e1a5c2a123456791",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/10/SAMSUNG-Galaxy-A05-10.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/10/SAMSUNG-Galaxy-A05-1.webp",
+        "https://afraa.shop/wp-content/uploads/2024/10/SAMSUNG-Galaxy-A05-15.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "MediaTek Helio G99",
+        "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.5,
+          "type": "Super AMOLED",
+          "resolution": "1080x2400",
+          "refresh_rate_hz": 90
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "25W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Samsung Galaxy A24 | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Galaxy A24: تراشه MediaTek Helio G99، نمایشگر 6.5 اینچی و باتری 5000mAh.",
+        "keywords": [
+          "Galaxy A24",
+          "Samsung Galaxy",
+          "گوشی میان رده سامسونگ"
+        ],
+        "features": [
+          "تراشهٔ MediaTek Helio G99",
+          "نمایشگر 6.5 اینچ Super AMOLED",
+          "دوربین چهارگانه",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68cae18c98255a15249e3440"
+      },
+      "id": "P0020",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13",
+      "short_description": "Xiaomi Redmi Note 13 با نمایشگر 6.6 اینچ AMOLED، تراشه MediaTek Dimensity 6080، دوربین سه‌گانه و باتری 5000mAh.",
+      "card_description": "گوشی موبایل شیائومی Redmi Note 13 Pro 4G 8GB 256GB (گلوبال)",
+      "price": 11249000,
+      "count_stock": 18,
+      "in_stock": true,
+      "categoryId": "68c927321552cffcf0435d10",
+      "brandId": "68c931a61552cffcf0435d1d",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-3.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-12.webp",
+        "https://afraa.shop/wp-content/uploads/2024/12/Redmi-Note-13-Pro-6.webp"
+      ],
+      "phoneInfo": {
+        "os": "Android 13",
+        "chipset": "MediaTek Dimensity 6080",
+        "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "gpu": "Mali-G57 MC2",
+        "ram": "6GB",
+        "storage_options": [
+          "128GB",
+          "256GB"
+        ],
+        "display": {
+          "size_in": 6.6,
+          "type": "AMOLED",
+          "resolution": "1080x2400",
+          "refresh_rate_hz": 90
+        },
+        "battery": {
+          "capacity_mAh": 5000,
+          "charging": "33W fast charge"
+        }
+      },
+      "pageInfo": {
+        "title": "Xiaomi Redmi Note 13 | خرید و مشخصات",
+        "meta_description": "مشخصات، قیمت و بررسی Redmi Note 13: تراشه MediaTek Dimensity 6080، نمایشگر AMOLED 6.6 اینچی و باتری 5000mAh.",
+        "keywords": [
+          "Redmi Note 13",
+          "Xiaomi",
+          "گوشی میان رده شیائومی"
+        ],
+        "features": [
+          "تراشه MediaTek Dimensity 6080",
+          "نمایشگر 6.6 اینچ AMOLED",
+          "دوربین سه‌گانه",
+          "باتری 5000mAh"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828445d"
+      },
+      "id": "lap001",
+      "brand": "Asus",
+      "model": "ZenBook UM3406KA ",
+      "short_description": "",
+      "card_description": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD",
+      "price": "102999000",
+      "count_stock": 7,
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA-3-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA-2-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/10/ZenBook-UM3406KA-4-150x150.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "AMD Ryzen AI 7 350",
+        "gpu": "AMD Radeon Graphics",
+        "ram": "16 گیگابایت LPDDR5X",
+        "ssd": "1 ترابایت SSD",
+        "screen": "14.0 اینچ ",
+        "display": " OLED 2880×1800",
+        "weight": " 1.28 کیلوگرم",
+        "battery": "75 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 14 اینچی ایسوس ZenBook UM3406KA R AI7 350 16GB 1TB SSD AMD - ایسوس ایران",
+        "meta_description": "پردازنده اصلی: AMD Ryzen AI 7 350 حافظه رم: 16 گیگابایت LPDDR5X حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: بدون حافظه‌ی گرافیکی مجزا پردازنده گرافیکی: AMD Radeon Graphics اندازه صفحه نمایش: 14.0 اینچ رزولوشن: OLED 2880×1800 وزن: 1.28",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828445e"
+      },
+      "id": "lap002",
+      "brand": "Asus",
+      "model": "Zenbook UX5406SA",
+      "short_description": "",
+      "card_description": "لپ تاپ 14 اینچی ایسوس (صفحه نمایش لمسی) Zenbook UX5406SA Ultra7 256V 16GB 1TB SSD INTEL",
+      "price": "134509000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2025/11/Zenbook-UX5406SA-White.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2025/11/Zenbook-UX5406SA-White-3-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/11/Zenbook-UX5406SA-White-2-1-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/11/Zenbook-UX5406SA-White-4-150x150.webp"
+      ],
+      "laptopInfo": {
+        "cpu": " Intel ULTRA7 256V",
+        "gpu": "INTEL Onboard",
+        "ram": "16 گیگابایت LPDDR5X",
+        "ssd": "1 ترابایت SSD",
+        "screen": "14 اینچ",
+        "display": "WQXGA+ 2880×1800",
+        "weight": " 1.2 کیلوگرم",
+        "battery": " 72 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 14 اینچی ایسوس  Zenbook UX5406SA Ultra7 256V 16GB 1TB SSD INTEL - ایسوس ایران",
+        "meta_description": "پردازنده اصلی: Intel ULTRA7 256V حافظه رم: 16 گیگابایت LPDDR5X حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: Onboard پردازنده گرافیکی: INTEL",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828445f"
+      },
+      "id": "lap003",
+      "brand": "Asus",
+      "model": "ROG Strix G615JMR ",
+      "short_description": "",
+      "card_description": "لپ تاپ 16 اینچی ایسوس ROG Strix G615JMR i7 14650HX 32GB 1TB SSD RTX 5060",
+      "price": "174999000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2025/08/ROG-Strix-G615JMR-1.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2025/08/ROG-Strix-G615JMR-1.webp",
+        "https://asusiran.com/wp-content/uploads/2025/08/ROG-Strix-G615JMR-3-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/08/ROG-Strix-G615JMR-2-150x150.webp"
+      ],
+      "laptopInfo": {
+        "cpu": " intel Core i7 14650HX",
+        "gpu": " NVIDIA Geforce RTX5060 GDDR7  8 گیگابایت",
+        "ram": "32 گیگابایت DDR5",
+        "ssd": " 1 ترابایت SSD",
+        "screen": "16 اینچ",
+        "display": "1200×1920",
+        "weight": " 2.65 کیلوگرم",
+        "battery": "ظرفیت 90 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 16 اینچی ایسوس ROG Strix G615JMR i7 14650HX 32GB 1TB SSD RTX 5060 - ایسوس ایران",
+        "meta_description": "پردازنده: intel Core i7 14650HX ظرفیت حافظه رم: 32 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: 8 گیگابایت پردازنده گرافیکی: NVIDIA Geforce RTX5060 GDDR7",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284460"
+      },
+      "id": "lap004",
+      "brand": "Asus",
+      "model": "ROG Strix G614JV",
+      "short_description": "",
+      "card_description": "لپ تاپ 16 اینچی ایسوس مدل ROG Strix G614JV | i7 13650HX | 16GB | 1TB SSD | RTX 4060",
+      "price": "155999000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2023/07/rog-g614-gray-1.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2023/07/rog-g614-gray-4-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2023/07/rog-g614-gray-2-1-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2023/07/rog-g614-gray-3-150x150.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "intel Core i7 13650HX",
+        "gpu": "NVIDIA GeForce RTX 4060 GDDR6 8 گیگابایت",
+        "ram": " 16 گیگابایت DDR5",
+        "ssd": " 1 ترابایت SSD",
+        "screen": "16 اینچ",
+        "display": "WUXGA",
+        "weight": "2.5 کیلوگرم",
+        "battery": "ظرفیت 90 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 16 اینچی ایسوس مدل ROG Strix G614JV | i7 13650HX | 16GB | 1TB SSD | RTX 4060 - ایسوس ایران",
+        "meta_description": "پردازنده: intel Core i7 13650HX ظرفیت حافظه رم: 16 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه پردازنده گرافیکی: 8 گیگابایت پردازنده گرافیکی: NVIDIA GeForce RTX 4060 GDDR6",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284461"
+      },
+      "id": "lap005",
+      "brand": "Asus",
+      "model": "TUF Gaming F16 FX608JMR",
+      "short_description": "",
+      "card_description": "لپ تاپ 16 اینچی ایسوس TUF Gaming F16 FX608JMR i7 14650HX 32GB 1TB SSD RTX 5060",
+      "price": "112999000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2025/05/TUF-Gaming-F16-FX608JH.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2025/05/TUF-Gaming-F16-FX608JH-2-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/05/TUF-Gaming-F16-FX608JH-3-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2025/05/TUF-Gaming-F16-FX608JH.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "intel Core i7 14650HX",
+        "gpu": " 8 گیگابایت GDDR7 NVIDIA GeForce RTX 5060",
+        "ram": " 32 گیگابایت DDR5",
+        "ssd": " 1 ترابایت SSD",
+        "screen": "16 اینچ",
+        "display": "WUXGA 1920×1200",
+        "weight": "2.2 کیلوگرم",
+        "battery": " ظرفیت 90 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming F16 FX608JMR i7 14650HX 32GB 1TB SSD RTX 5060 - ایسوس ایران",
+        "meta_description": "پردازنده: intel Core i7 14650HX ظرفیت حافظه رم: 32 گیگابایت DDR5 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه گرافیکی: 8 گیگابایت GDDR7 پردازنده گرافیکی: NVIDIA",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284462"
+      },
+      "id": "lap006",
+      "brand": "Asus",
+      "model": "TUF Gaming FX607VJ ",
+      "short_description": "",
+      "card_description": "لپ تاپ 16 اینچی ایسوس TUF Gaming FX607VJ Core 5 210H 8GB 1TB SSD RTX 3050",
+      "price": "88499000",
+      "count_stock": 7,
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691600d886e192d9d9c9d887",
+      "thumbnail": "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-1.webp",
+      "images": [
+        "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-1.webp",
+        "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-3-150x150.webp",
+        "https://asusiran.com/wp-content/uploads/2024/05/TUF-Gaming-F16-FX607JU-2-150x150.webp"
+      ],
+      "laptopInfo": {
+        "cpu": " intel CORE 5 210H",
+        "gpu": " NVIDIA GeForce RTX 3050  6 گیگابایت ",
+        "ram": " 8 گیگابایت DDR4",
+        "ssd": "1 ترابایت SSD",
+        "screen": "16 اینچ",
+        "display": "1200 × 1920",
+        "weight": "2.2 کیلوگرم",
+        "battery": " ظرفیت 56 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ 16 اینچی ایسوس TUF Gaming FX607VJ Core 5 210H 8GB 1TB SSD RTX 3050 - ایسوس ایران",
+        "meta_description": "پردازنده: intel CORE 5 210H ظرفیت حافظه رم: 8 گیگابایت DDR4 ظرفیت حافظه داخلی: 1 ترابایت SSD حافظه گرافیکی: 6 گیگابایت پردازنده گرافیکی: NVIDIA GeForce RTX 3050 اندازه",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284463"
+      },
+      "id": "lap007",
+      "brand": "Apple",
+      "model": "MacBook Air MW0W3 M4 2025",
+      "short_description": "",
+      "card_description": "لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0W3 M4 2025 16GB 256GB LLA",
+      "price": "104567000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/color_image_TLP-161173_de4dce67-1498-464f-ac8b-12db08c9af8a.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-1-TLP-161173_c0027208-88f5-44a9-b7bc-26244b56b88d.png",
+        "https://www.technolife.com/image/gallery-2-TLP-161173_6479aee9-9003-48db-9e17-4f33677ed57e.png",
+        "https://www.technolife.com/image/gallery-3-TLP-161173_3e42b43d-c308-4dad-8e3e-891d401b0b49.png"
+      ],
+      "laptopInfo": {
+        "cpu": "Apple M4",
+        "gpu": "Apple",
+        "ram": "16 گیگابایت",
+        "ssd": "256 گیگابایت",
+        "screen": "13.6 اینچ",
+        "display": "۲۵۶۰x۱۶۶۴ Retina IPS LED",
+        "weight": "۱.۲۴ کیلوگرم",
+        "battery": "53.8 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0W3 M4 2025 16GB 256GB LLA مشخصات",
+        "meta_description": "خرید MacBook Air MW0W3 M4 2025 16GB RAM 256GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0W3 M4 2025 16GB 256GB LLAروی لینک بالا بزنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284464"
+      },
+      "id": "lap008",
+      "brand": "Apple",
+      "model": "MacBook Air MW133 M4 2025",
+      "short_description": "",
+      "card_description": "لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW133 M4 2025 16GB 512GB LLA",
+      "price": "127850000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-161118_0c7c5af5-5ef3-4197-8a33-0f24c8a87d2d.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-1-TLP-161106_624aba91-3674-40e6-9ce1-6dd5d80a7602.png",
+        "https://www.technolife.com/image/gallery-3-TLP-161106_5bf270a7-f848-4ba7-8e1b-351cb3bf6373.png",
+        "https://www.technolife.com/image/gallery-2-TLP-161106_920d45b1-4525-42d8-b88a-310e6680787d.png"
+      ],
+      "laptopInfo": {
+        "cpu": "Apple M4",
+        "gpu": "Apple",
+        "ram": "16 گیگابایت",
+        "ssd": "512 گیگابایت",
+        "screen": "13.6 اینچ",
+        "display": "۲۵۶۰x۱۶۶۴ Retina IPS LED",
+        "weight": "۱.۲۴ کیلوگرم",
+        "battery": "53.8 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW133 M4 2025 16GB 512GB LLA مشخصات",
+        "meta_description": "خرید MacBook Air MW133 M4 2025 16GB RAM 512GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW133 M4 2025 16GB 512GB LLAروی لینک بالا بزنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284465"
+      },
+      "id": "lap009",
+      "brand": "Apple",
+      "model": "MacBook Pro MW2U3 2024 M4 ",
+      "short_description": "",
+      "card_description": "لپ تاپ 14.2 اینچی اپل مدل MacBook Pro MW2U3 2024 M4 16GB 512GB LLA",
+      "price": "177090000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-161107_c50eebbd-f921-45ee-a211-b21e336e4fcf.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-1-TLP-161152_089873aa-8480-4001-9762-91dca7598611.png",
+        "https://www.technolife.com/image/gallery-2-TLP-161152_2bf47063-a206-47c9-8a73-60854c842a04.png",
+        "https://www.technolife.com/image/gallery-3-TLP-161152_18db145f-0f8b-4e42-a470-554333cb9267.png"
+      ],
+      "laptopInfo": {
+        "cpu": "Apple M4",
+        "gpu": "Apple",
+        "ram": "16 گیگابایت",
+        "ssd": "512 گیگابایت",
+        "screen": "14.2 اینچ",
+        "display": "120 هرتز  Liquid Retina XDR mini-LED LCD  3024x1964 پیکسل",
+        "weight": "1550 گرم",
+        "battery": "حداکثر تا 24 ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ 14.2 اینچی اپل مدل MacBook Pro MW2U3 2024 M4 16GB 512GB LLA مشخصات",
+        "meta_description": "خرید MacBook Pro MW2U3 2024 M4 با رم 16GB و حافظه 512GB SSD؛ برای مشاهده مشخصات کامل، نظرات کاربران، تصاویر و قیمت روز لپ تاپ 14.2 اینچی اپل مدل MacBook Pro MW2U3 2024 M4 16GB 512GB LLA روی لینک بالا بزنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284466"
+      },
+      "id": "lap0010",
+      "brand": "Apple",
+      "model": "MacBook Air MW0Y3 M4 2025",
+      "short_description": "",
+      "card_description": "لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0Y3 M4 2025 16GB 256GB LLA",
+      "price": "104079000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-161110_0b601c93-e68d-446d-99d5-4796be0aba0c.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-3-TLP-161110_c70ea8c9-dff7-4597-b9f8-fa7e1042b128.png",
+        "https://www.technolife.com/image/gallery-1-TLP-161110_828176a5-51de-4106-a985-2c3b946976d1.png",
+        "https://www.technolife.com/image/gallery-2-TLP-161110_9e95ee4b-0bff-480f-b9e7-df0cae68e3f0.png"
+      ],
+      "laptopInfo": {
+        "cpu": "Apple M4",
+        "gpu": "Apple",
+        "ram": "16 گیگابایت",
+        "ssd": "256 گیگابایت",
+        "screen": "13.6 اینچ",
+        "display": "Retina IPS LED ۲۵۶۰x۱۶۶۴",
+        "weight": "۱.۲۴ کیلوگرم",
+        "battery": "53.8 وات ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0Y3 M4 2025 16GB 256GB LLA مشخصات",
+        "meta_description": "خرید MacBook Air MW0Y3 M4 2025 16GB RAM 256GB SSD LLA;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ اپل 13.6 اینچی مدل MacBook Air MW0Y3 M4 2025 16GB 256GB LLAروی لینک بالا بزنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284467"
+      },
+      "id": "lap0011",
+      "brand": "Apple",
+      "model": "MacBook Air MGN93 2020",
+      "short_description": "",
+      "card_description": "لپ تاپ 13 اینچی اپل مدل MacBook Air MGN93 2020",
+      "price": "77990000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-9514_39eafd10-c7c6-469c-9bf5-ace2b3d19ec5.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-0-TLP-9514_d4061649-11ed-41d2-b61e-67bd8f9581b1.png",
+        "https://www.technolife.com/image/gallery-2-TLP-9514_97764be1-a7d4-4886-bae8-83302d58a929.png",
+        "https://www.technolife.com/image/gallery-3-TLP-9514_5adf201e-c0fd-43fc-a2ad-58940b29bb20.png"
+      ],
+      "laptopInfo": {
+        "cpu": "Apple M1",
+        "gpu": "Apple",
+        "ram": "8 گیگابایت",
+        "ssd": "256 گیگابایت",
+        "screen": "13.3 اینچ",
+        "display": "2560x1600 پیکسل IPS",
+        "weight": "۱.۲۹ کیلوگرم",
+        "battery": "حداکثر تا ۱۵ ساعت برای وب گردی"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ اپل مک بوک ایر MGN93 2020",
+        "meta_description": "خرید لپ تاپ 13 اینچی اپل مدل MacBook Air MGN93 2020؛ برای مشاهده عکس ها، مقایسه با Macbook های مشابه و دیدن قیمت مک بوک ایر mgn93 وارد شوید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284468"
+      },
+      "id": "lap0012",
+      "brand": "Apple",
+      "model": "MacBook Air MC7X4 2022",
+      "short_description": "",
+      "card_description": "لپ تاپ 13.6 اینچی اپل مدل MacBook Air MC7X4 2022 M2 16GB RAM 256GB",
+      "price": "88990000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "68c9278f1552cffcf0435d12",
+      "thumbnail": "https://www.technolife.com/image/small_product-TLP-122282_c88f6b0b-65c9-4f9e-a2af-8e0986aa3002.png",
+      "images": [
+        "https://www.technolife.com/image/gallery-1-TLP-122282_cc2a9eb3-ed7b-44a0-a9fe-a5c8704e6178.png",
+        "https://www.technolife.com/image/gallery-0-TLP-122282_833f48ae-41d1-4c3b-8f17-e3260d7a5117.png",
+        "https://www.technolife.com/image/gallery-2-TLP-122282_45fa76f5-4f16-4ac8-80a7-c5a716015592.png"
+      ],
+      "laptopInfo": {
+        "cpu": "M2",
+        "gpu": "Apple",
+        "ram": "16 گیگابایت",
+        "ssd": "256 گیگابایت",
+        "screen": "13.6 اینچ",
+        "display": "Liquid Retina XDR | 60 هرتز |  | 2560x1664 پیکسل",
+        "weight": "1.24 کیلوگرم",
+        "battery": "با ظرفیت 52.6 وات"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ 13.6 اینچی اپل مدل MacBook Air MC7X4 2022 M2 16GB RAM 256GB مشخصات",
+        "meta_description": "خرید Apple MacBook Air MC7X4 2022 M2 16GB RAM 256GB SSD 13.6 inch laptop;برای مشاهده مشخصات، نظرات، عکس ها و قیمت روزلپ تاپ 13.6 اینچی اپل مدل MacBook Air MC7X4 2022 M2 16GB RAM 256GBروی لینک بالا بزنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae728258284469"
+      },
+      "id": "lap0013",
+      "brand": "Lenovo",
+      "model": "LOQ 15IAX9-X 12450HX",
+      "short_description": "",
+      "card_description": "لپ تاپ گیمینگ لنوو LOQ 15IAX9-X 12450HX (2024)",
+      "price": "84690000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-5-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-4-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-3-300x300.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "Intel Core i5 12450HX",
+        "gpu": "NVIDIA GeForce RTX 3050 6GB",
+        "ram": " 16GB DDR5 4800MHz",
+        "ssd": "512GB PCIe NVMe ",
+        "screen": "15.6 اینچ",
+        "display": "1920x1080 IPS Full HD",
+        "weight": "2.4 کیلوگرم",
+        "battery": "4Cell 60WHr"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ لنوو LOQ 15IAX9-X 12450HX | خرید لپ تاپ گیمینگ لنوو 2024",
+        "meta_description": "لپ تاپ لنوو LOQ 15IAX9-X 12450HX یک لپ ‌تاپ زیبا، قدرتمند و همه‌کاره که می‌تواند نیازهای کاربران مختلف با بودجه محدود را برآورده کند.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828446a"
+      },
+      "id": "lap0014",
+      "brand": "Lenovo",
+      "model": "Legion 7 16IAX10-ZB 275HX",
+      "short_description": "",
+      "card_description": "لپ تاپ گیمینگ لنوو Legion 7 16IAX10-ZB 275HX (2025)",
+      "price": "314890000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2025/11/LENOVO-Legion-7-16IAX10-2025-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2025/11/LENOVO-Legion-7-16IAX10-2025-5-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2025/11/LENOVO-Legion-7-16IAX10-2025-4-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2025/11/LENOVO-Legion-7-16IAX10-2025-12-300x300.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "Intel Core Ultra 9 275HX",
+        "gpu": "NVIDIA GeForce RTX 5070 8GB",
+        "ram": "48GB DDR5",
+        "ssd": "1T PCIe NVMe",
+        "screen": "16.0 اینچ",
+        "display": "2560x1600 OLED",
+        "weight": "2.0 کیلوگرم",
+        "battery": "4Cell 84WHrs 2 الی 3 ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ لنوو Legion 7 16IAX10-ZB 275HX | خرید از افراشاپ",
+        "meta_description": "لپ تاپ لنوو Legion 7 16IAX10-ZB 275HX یکی از جدیدترین محصولات بازار است که می‌توانید آن را با بهترین قیمت از افراشاپ خریداری کنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828446b"
+      },
+      "id": "lap0015",
+      "brand": "Lenovo",
+      "model": "IdeaPad Slim 3 15IRH8-Z 13420H (2023",
+      "short_description": "",
+      "card_description": "لپ تاپ لنوو IdeaPad Slim 3 15IRH8-Z 13420H (2023)",
+      "price": "44469000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2023/06/IdeaPad-Slim-3-15IAU7-2023-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2023/06/IdeaPad-Slim-3-15IAU7-2023-5-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/06/IdeaPad-Slim-3-15IAU7-2023-3-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/06/IdeaPad-Slim-3-15IAU7-2023-4-300x300.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "Intel Core i5 13420H",
+        "gpu": "INTEL UHD ",
+        "ram": "8GB LPDDR5",
+        "ssd": "SSD 512GB PCIe NVMe",
+        "screen": "15.6 اینچ",
+        "display": "1920x1080 TN Full HD",
+        "weight": "1.6 کیلوگرم",
+        "battery": "1 الی 3 ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ IdeaPad Slim 3 15IRH8 2023|خرید IdeaPad Slim 3 | افراشاپ",
+        "meta_description": "قیمت لپ تاپ Lenovo IdeaPad Slim 3 2023 ، خرید لپ تاپ لنوو IdeaPad Slim 3 15IRH8 2023 به همراه مشخصات و بررسی کامل آیدیاپد اسلیم 3 با بهترین قیمت",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828446c"
+      },
+      "id": "lap0016",
+      "brand": "Lenovo",
+      "model": "LOQ 15IRX9-AB 13650HX",
+      "short_description": "",
+      "card_description": "لپ تاپ گیمینگ لنوو LOQ 15IRX9-AB 13650HX (2024)",
+      "price": "101969000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-5-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-4-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/12/LENOVO-LOQ-15IRX9-2023-3-300x300.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "intel Core i7 13650HX",
+        "gpu": "NVIDIA GeForce RTX 4050 6GB",
+        "ram": " 16GB DDR5 4800MHz",
+        "ssd": "SSD 512GB PCIe NVMe",
+        "screen": "15.6 اینچ",
+        "display": "1920x1080 IPS Full HD",
+        "weight": "2.4 کیلوگرم",
+        "battery": "1 الی 3 ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ لنوو LOQ 15IRX9 13650HX |‌ قیمت لپ‌تاپ لنوو | خرید لنوو LOQ",
+        "meta_description": "لپ تاپ لنوو مدل LOQ 15IRX9 13650HX یک محصول بروز از سری لپ تاپ‌های گیمینگ لنوو مناسب کسانی است که به دنبال لپ تاپ برای بازی و پردازش‌های گرافیکی هستند.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828446d"
+      },
+      "id": "lap0017",
+      "brand": "Lenovo",
+      "model": "Legion Pro 5 16IRX9-XD 14650HX",
+      "short_description": "",
+      "card_description": "لپ تاپ گیمینگ لنوو Legion Pro 5 16IRX9-XD 14650HX (2024)",
+      "price": "173695000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2024/01/LENOVO-Legion-Pro-5-16IRX9-2024-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2024/01/LENOVO-Legion-Pro-5-16IRX9-2024-5-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2024/01/LENOVO-Legion-Pro-5-16IRX9-2024-9.webp",
+        "https://afraa.shop/wp-content/uploads/2024/01/LENOVO-Legion-Pro-5-16IRX9-2024-5.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "intel Core i7 14650HX",
+        "gpu": "NVIDIA GeForce RTX 4060 GDDR6 8 گیگابایت",
+        "ram": "32GB DDR5 5600MHz",
+        "ssd": "SSD 1T PCIe NVMe",
+        "screen": "16 اینچ",
+        "display": "2560x1600 IPS ",
+        "weight": "2.4 کیلوگرم",
+        "battery": "1 الی 3 ساعت"
+      },
+      "pageInfo": {
+        "title": "لپ تاپ لنوو Legion Pro 5 16IRX9 14650HX (2024) | قیمت لپ تاپ | افراشاپ",
+        "meta_description": "شما می‌توانید لپ تاپ لنوو مدل Legion Pro 5 16IRX9 14650HX (2024) را با قیمت مناسب و گارانتی معتبر از فروشگاه اینترنتی افراشاپ خریداری کنید.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "691b491750ae72825828446e"
+      },
+      "id": "lap0018",
+      "brand": "Lenovo",
+      "model": "IdeaPad 1 15AMN7-X 7520U",
+      "short_description": "",
+      "card_description": "لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U (2023)",
+      "price": "41548000",
+      "count_stock": "10",
+      "in_stock": true,
+      "categoryId": "68c926fd1552cffcf0435d0f",
+      "brandId": "691b488b50ae728258284459",
+      "thumbnail": "https://afraa.shop/wp-content/uploads/2023/05/IdeaPad-1-15AMN7-2023-1-600x600.webp",
+      "images": [
+        "https://afraa.shop/wp-content/uploads/2023/05/IdeaPad-1-15AMN7-2023-4-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/05/IdeaPad-1-15AMN7-2023-3-300x300.webp",
+        "https://afraa.shop/wp-content/uploads/2023/05/IdeaPad-1-15AMN7-2023-2-300x300.webp"
+      ],
+      "laptopInfo": {
+        "cpu": "AMD Ryzen 5 7520U",
+        "gpu": "AMD Radeon 610M",
+        "ram": " 8 گیگابایت LPDDR5X 5500MHz ",
+        "ssd": "SSD 512GB PCIe NVMe",
+        "screen": "15.6 اینچ",
+        "display": "1920x1080 IPS Full HD",
+        "weight": "1.6 کیلوگرم",
+        "battery": "1 الی 3 ساعت"
+      },
+      "pageInfo": {
+        "title": "قیمت لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U | خرید از افراشاپ",
+        "meta_description": "قیمت لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U ، خرید لپ تاپ لنوو IdeaPad 1 15AMN7-X 7520U به همراه مشخصات و بررسی کامل با بهترین قیمت.",
+        "keywords": [
+          "خرید لپتاپ ایسوس",
+          "لپتاپ دانشجویی",
+          "لپتاپ سبک"
+        ]
+      }
+    }
+  ]
+}

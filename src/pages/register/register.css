@@ -1,0 +1,27 @@
+.registryContainer{
+    background-color: rgb(198, 227, 255);
+}
+
+.registryContainer input:focus{
+    border: none !important;
+    outline: none !important;
+    
+}
+
+
+
+@media screen and (min-width : 992px) {
+    .registryContainer{
+        width: 40%;
+        
+    }
+    .registryContainer .myRegisterINput{
+        width: 75%;
+    }
+}
+
+@media screen and (min-width : 1200px) {
+    .registryContainer{
+        width: 50%;
+    }
+}

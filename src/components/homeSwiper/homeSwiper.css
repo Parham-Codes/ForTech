@@ -1,0 +1,69 @@
+.PslideText {
+  width: 100%;
+  padding: 15px 20px;
+  background-color: white;
+  margin: 20px auto 15px auto;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.PslideText .left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PslideText .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PslideText .left a:hover {
+  transition: all 0.2s ease;
+  color: rgb(126, 126, 126) !important;
+}
+
+.hot-products-swiper {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.swiper-pagination-bullet {
+  background: #bbb !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: black !important;
+}
+
+.swiper-button-next {
+  left: 5px !important;  /* فاصله بیشتر از سمت راست */
+  color: black !important;
+  background-color: #b3b3b35e;
+  border-radius: 50%;
+  backdrop-filter: blur(5px) !important;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px rgba(33, 33, 33, 0.06), 0px 4px 3px rgba(33, 33, 33, 0.07) !important;
+}
+
+.swiper-button-prev {
+  right: 5px !important;
+  color: black !important;
+  background-color: #b3b3b35e;
+  border-radius: 50%;
+  backdrop-filter: blur(5px) !important;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px rgba(33, 33, 33, 0.06), 0px 4px 3px rgba(33, 33, 33, 0.07) !important;  /* فاصله بیشتر از سمت چپ */
+}
+
+.swiper-navigation-icon{
+    width: 20px !important;
+    height: 20px !important;
+    
+}
+
+

@@ -1,0 +1,142 @@
+.searchResDiv {
+  background-color: #f0f0f1;
+  position: absolute !important;
+  z-index: 2000;
+  top: 45px;
+  left: 55px;
+  border-radius: 0 0 12px 12px;
+  height: 0;
+  display: none;
+  transition: all 0.3s ease;
+  overflow-y: scroll;
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.showSearchResDiv {
+  height: 350px;
+  display: inline-block;
+}
+
+.searchDiv {
+  position: relative;
+}
+
+.searchContainer .pricePar {
+  top: 87%;
+  left: 5px;
+  font-size: 18px;
+  width: 100%;
+  text-align: end;
+  border-top: 1px solid;
+  padding-top: 10px;
+}
+
+.notFoundSearch {
+  height: 90%;
+}
+
+.closeSearchResbtn {
+  position: sticky;
+  top: 0;
+  left: 10px;
+  float: left;
+  font-size: 20px;
+  z-index: 2001;
+  cursor: pointer;
+}
+
+.searchContainer .descriptionPar {
+  font-size: 15px;
+}
+
+.headerInput {
+  border-radius: 9px;
+  padding: 10px;
+  background-color: #f0f0f1;
+  border: none;
+  font-size: 14px;
+}
+.headerInput:focus {
+  outline: none;
+}
+.searchDiv button {
+  background-color: #007bff; /* رنگ اصلی آبی */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease; /* انیمیشن نرم برای هاور */
+
+  /* سایه */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.searchDiv button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.searchDiv button:active {
+  background-color: #004085;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(0);
+}
+
+
+@media screen and (max-width: 567px) {
+  .headerInput {
+    width: 350px;
+  }
+  .searchResDiv {
+    width: 350px;
+    left: 0;
+    height: 470px;
+  }
+  .searchDiv {
+    padding: 0 0 20px 0;
+  }
+
+  .searchContainer .descriptionPar {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 567px) and (max-width: 768px) {
+  .headerInput {
+    width: 540px;
+  }
+  .searchResDiv {
+    width: 540px;
+    left: 0;
+  }
+  .searchDiv {
+    padding: 0 0 20px 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .headerInput {
+    width: 600px;
+  }
+  .searchResDiv {
+    width: 600px;
+    left: 55px;
+  }
+  .searchDiv {
+    padding: 0 0 20px 0;
+  }
+}
+
+
+@media screen and (min-width: 992px) {
+  .headerInput {
+    width: 600px;
+  }
+  .searchResDiv {
+    width: 600px;
+  }
+}
