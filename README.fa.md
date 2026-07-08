@@ -165,10 +165,10 @@ Email: parhamtaghikhani.31@gmail.com
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ اگر این پروژه برای شما مفید بود، خوشحال می‌شوم با دادن یک Star از آن حمایت کنید.
+### ⭐ اگر از این پروژه خوشتان آمد، با دادن یک Star از آن حمایت کنید.
 
-</p>
+</div>
 
 </div>

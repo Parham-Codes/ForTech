@@ -159,6 +159,8 @@ Email: parhamtaghikhani.31@gmail.com
 
 ---
 
-<p align="center">
-⭐ If you like this project, consider giving it a star.
-</p>
+<div align="center">
+
+### ⭐ If you enjoyed this project, consider giving it a Star!
+
+</div>
