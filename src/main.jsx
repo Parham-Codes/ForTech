@@ -9,7 +9,7 @@ import ScrollToTop from "./components/scrollToTop/scrollToTop.jsx";
 createRoot(document.getElementById("root")).render(
   <ThemeProvider dir="rtl">
     <StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename="/ForTech">
         <ScrollToTop />
         <App />
       </BrowserRouter>
