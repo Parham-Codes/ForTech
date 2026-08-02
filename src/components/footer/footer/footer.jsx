@@ -64,12 +64,6 @@ function Footer() {
                   className="aboutLogo d-block mx-auto"
                   style={{ height: "100px" }}
                 />
-
-                <img
-                  src={logo}
-                  className="aboutLogo d-block mx-auto"
-                  style={{ height: "100px" }}
-                />
               </h1>
               <p className="" style={{ fontSize: "12px" }}>
                 خرید لپ تاپ و کالای دیجیتال
