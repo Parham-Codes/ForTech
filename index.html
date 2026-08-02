@@ -2,9 +2,19 @@
 <html lang="en" dir="rtl">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" href="/ForTech/assets/logo-DorptZ3-.png">
+    <link rel="icon" href="/ForTech/assets/logo-DorptZ3-.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ForTech</title>
+
+    <script>
+      (function () {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
     <script type="module" crossorigin src="/ForTech/assets/index-5L88uTbZ.js"></script>
     <link rel="modulepreload" crossorigin href="/ForTech/assets/jsx-runtime-Bg_NI1en.js">
     <link rel="modulepreload" crossorigin href="/ForTech/assets/dist-CgacqsUl.js">
