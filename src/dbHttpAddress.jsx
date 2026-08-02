@@ -1,3 +1,3 @@
-const DbHttpAddress = "http://192.168.202.189:4000";
+const DbHttpAddress = "https://fortech-api.onrender.com";
 
 export default DbHttpAddress;
