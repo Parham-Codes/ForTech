@@ -1,3 +1,3 @@
-const DbHttpAddress = "http://192.168.1.3:4000";
+const DbHttpAddress = "http://192.168.202.189:4000";
 
 export default DbHttpAddress;
