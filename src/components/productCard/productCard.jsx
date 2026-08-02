@@ -2,26 +2,28 @@ import { Link } from "react-router-dom";
 import "./productCard.css";
 import * as ReactSVG from "react-svg";
 import { useEffect, useState } from "react";
+import ImageSkeletonLoading from "../skeletonLoading/imageSkeletonLoading";
 
 function ProductCard({ productData }) {
   let price = productData.price;
 
   let formattedPrice = Number(price).toLocaleString("fa-IR");
 
-  const [linkRoute , setLinkRoute] = useState('')
+  const [imageLoaded, setImageLoaded] = useState(false);
+  const [linkRoute, setLinkRoute] = useState("");
 
-  useEffect(() =>{
-    
-    if (productData.id.includes('P')) {
-      setLinkRoute('/phones')
+  useEffect(() => {
+    if (productData.id.includes("P")) {
+      setLinkRoute("/phones");
     }
-    if (productData.id.includes('lap')) {
-      setLinkRoute('/laptops')
+    if (productData.id.includes("lap")) {
+      setLinkRoute("/laptops");
     }
-    
-  } , [productData])
+  }, [productData]);
 
-
+  useEffect(() => {
+    setImageLoaded(false);
+  }, [productData.thumbnail]);
 
   return (
     <>
@@ -29,7 +31,13 @@ function ProductCard({ productData }) {
         <div className="PCard bg-white">
           <div className="top px-5 py-4 d-flex justify-content-center align-items-center">
             <Link to={`/products/${linkRoute}/${productData.id}`}>
-              <img className="img-fluid" src={productData.thumbnail} />
+              {!imageLoaded && <ImageSkeletonLoading />}
+
+              <img
+                className={`img-fluid ${imageLoaded ? "d-block" : "d-none"}`}
+                src={productData.thumbnail}
+                onLoad={() => setImageLoaded(true)}
+              />
             </Link>
           </div>
           <div className="divider-line text-black mb-2 mx-auto rounded rounded-pill"></div>
@@ -55,7 +63,9 @@ function ProductCard({ productData }) {
               className="m-3 text-decoration-none text-black"
               to={`/products/${linkRoute}/${productData.id}`}
             >
-              <button className="w-100 secBgColor fw-bold lalezar text-black-50">بررسی محصول</button>
+              <button className="w-100 secBgColor fw-bold lalezar text-black-50">
+                بررسی محصول
+              </button>
             </Link>
           </div>
         </div>
