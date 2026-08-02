@@ -155,7 +155,6 @@ function Footer() {
         <span>
           <BiCopyright />
         </span>
-        کلیه حقوق این وبسایت متعلق به ParhamDev میباشد و کلیه حقوق محفوظ است.
       </h6>
     </div>
   );
